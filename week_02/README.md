@@ -8,4 +8,4 @@ Tuesday discussion: data humanism and Dear Data
 
 # Project - Dear Data
 * dear_data_front.jpg - Dear Data visualization
-* dear_data_legend.jpg - Dear Data legend,
+* dear_data_legend.jpg - Dear Data legend
