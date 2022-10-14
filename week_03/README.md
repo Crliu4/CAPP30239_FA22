@@ -25,3 +25,7 @@ could be for several reasons including the outdated nature of the dataset (perha
 collection anymore).
 
 * Identify if source is primary or secondary: Primary
+
+# Homework - Bar chart
+* homework.html - html code for library visit bar chart
+* homework.js - script using D3js to make bar chart
