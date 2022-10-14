@@ -5,7 +5,7 @@
 * index.html & script.js - Thursday lecture code
 
 # Final Project Data
-* Data source: <a href="https://github.com/tategallery/collection">Tate Gallery Github]
+* Data source: <a href="https://github.com/tategallery/collection">Tate Gallery Github
 
 * Description: Metadata (up to Oct. 2014) for around 70,000 artworks that Tate owns or jointly owns with the National Galleries of Scotland as part of ARTIST ROOMS. Metadata for around 3,500 associated artists is also included.
 
