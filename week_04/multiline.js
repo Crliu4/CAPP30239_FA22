@@ -39,10 +39,12 @@ d3.csv("long-term-interest-G7.csv").then(data => {
     .y(d => y(d.Value));
  
   for (let country of countries) {
-    let countryData = data.filter(d => d.Location === country);
+    // go through set created above; for each country create line
+    let countryData = data.filter(d => d.Location === country); 
 
     let g = svg.append("g")
       .attr("class", "country")
+      // hover function
       .on('mouseover', function () {
         d3.selectAll(".highlight").classed("highlight", false);
         d3.select(this).classed("highlight", true);
@@ -60,6 +62,7 @@ d3.csv("long-term-interest-G7.csv").then(data => {
 
     let lastEntry = countryData[countryData.length - 1]; //last piece of data to position text x and y
 
+    // add axis labels at end of the line
     g.append("text")
       .text(country)
       .attr("x", x(lastEntry.Date) + 3)
