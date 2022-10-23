@@ -7,4 +7,4 @@
 
 # Homework:
 homework.html & homework.js - create a line chart for Canada's long term interest rates for 2020
-
+project2.pdf - Project 2: Analyzing Existing Data Visualizations
