@@ -4,7 +4,8 @@
 * cleaned_data
     * aa_counts.csv - artist artwork count in entire Tate collection
     * ac_med.csv - acquisitions by year and medium
-    * watercolors.csv - most dominant color for each watercolor artwork (includes year)
+    * watercolors.csv - most dominant color for each watercolor artwork (includes year) using color thief package
+    * watercolors_cg.csv - 3 most common colors by proportion (w/ year) using colorgram package
 
 * code
     * data_cleaning.ipynb - python notebook to clean raw data
