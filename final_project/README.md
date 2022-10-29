@@ -1,6 +1,6 @@
-## Final Project
+# Final Project
 
-# Folders
+## Folders
 * cleaned_data
     * aa_counts.csv - artist artwork count in entire Tate collection
     * ac_med.csv - acquisitions by year and medium
