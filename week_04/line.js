@@ -23,7 +23,7 @@ d3.csv('long-term-interest-monthly.csv').then(data => {
         d.Date = timeParse(d.Date);
     }
 
-    // console.log(data);
+    console.log(data);
 
     let x = d3.scaleTime()
         .domain(d3.extent(data, d => d.Date)) // extent gives min & max, returns as array

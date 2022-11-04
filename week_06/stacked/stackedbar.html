@@ -45,9 +45,9 @@
       //protein,carbs,fiber
       const subgroups = data.columns.slice(1);
 
-      const color = d3.scaleOrdinal(subgroups,['#e41a1c','#377eb8','#4daf4a']);
+      const color = d3.scaleOrdinal(subgroups,['#e41a1c','#377eb8','#4daf4a']); // another type of scale
     
-      const stackedData = d3.stack()
+      const stackedData = d3.stack() // formatting data
         .keys(subgroups)(data);
     
       svg.append("g")
@@ -56,8 +56,8 @@
         .join("g")
         .attr("fill", d => color(d.key))
         .selectAll("rect")
-        .data(d => d)
-        .join("rect")
+        .data(d => d) // getting nested data
+        .join("rect") // building rectangles
         .attr("x", d => x(d.data.group))
         .attr("y", d => y(d[1]))
         .attr("height", d => y(d[0]) - y(d[1]))
@@ -71,7 +71,27 @@
       svg.append("text").attr("x", 130).attr("y", 10).text("carbs").style("font-size", "15px").attr("alignment-baseline","middle")
       svg.append("text").attr("x", 225).attr("y", 10).text("fiber").style("font-size", "15px").attr("alignment-baseline","middle")
 
+    // legend template
+    //   let legendGroup = svg
+    //     .selectAll(".legend-group")
+    //     .data(subgroups)
+    //     .join("g")
+    //     .attr("class", "legend-group");
+
+    //   legendGroup
+    //     .append("circle")
+    //     .attr("cx", (d, i) => (10 + (i * 75)))
+    //     .attr("cy",10)
+    //     .attr("r", 3)
+    //     .attr("fill", (d, i) => color(i));
+      
+    //   legendGroup
+    //     .append("text")
+    //     .attr("x", (d, i) => (20 + (i * 75)))
+    //     .attr("y",15)
+    //     .text((d, i) => subgroups[i]);
     });
+
     
     </script>
   

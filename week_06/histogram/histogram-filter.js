@@ -30,12 +30,12 @@ d3.json('climate.json').then((data) => {
     function updateChart(m) {
         const bins = d3.bin()
             .thresholds(10)
-            .value(d => d.average)(data[m]);
+            .value(d => d.average)(data[m]); // using data[object of that month]
 
         binGroups.selectAll("g")
             .data(bins, d => d.x0)
-        .join(
-            enter => {
+        .join( // extended join for when data changes
+            enter => { // enter 
             let g = enter.append("g")
 
             g.append("rect")
@@ -59,21 +59,21 @@ d3.json('climate.json').then((data) => {
                 .duration(750)
                 .attr("y", d => y(d.length) - 5);
             },
-            update => {
+            update => { // if no update - doesn't change things shared btwn enter and exit data
             update.select("rect")
                 .transition()
                 .duration(750)
-                .attr("y", d => y(d.length))
+                .attr("y", d => y(d.length)) // changing y pos and height of bars based on new data
                 .attr("height", d => height - margin.bottom - y(d.length));
 
-            update.select("text")
+            update.select("text") // changing text of bars based on new data
                 .text(d => d.length)
                 .transition()
                 .duration(750)
                 .attr("y", d => y(d.length) - 5);
             },
             exit => {
-            exit.select("rect")
+            exit.select("rect") // exit - taking old bars off the page - animation down
                 .transition()
                 .duration(750)
                 .attr("height", 0)
@@ -88,14 +88,14 @@ d3.json('climate.json').then((data) => {
             }
         );
 
-        svg.selectAll("foreignObject").remove();
+        svg.selectAll("foreignObject").remove(); // nicer way to do annotation
 
-        let temp = d3.mean(data[m], d => d.average).toFixed(1);
+        let temp = d3.mean(data[m], d => d.average).toFixed(1); // get mean of average var; toFixed(# decimals)
         let str = `The average temperature in 
-                    <b style="text-transform:capitalize;">${m} 2020</b> was 
+                    <b style="text-transform:capitalize;">${m} 2022</b> was 
                     <b>${temp}℉</b>.`
 
-        svg.append("foreignObject")
+        svg.append("foreignObject") // manually placed annotation
           .attr("x", 10)
           .attr("y", 100)
           .attr("width", 120)
@@ -107,9 +107,9 @@ d3.json('climate.json').then((data) => {
 
     updateChart("january");
 
-    d3.selectAll("select")
-        .on("change", function (event) {
-            const m = event.target.value;
+    d3.selectAll("select") // using an event (selecting this dropdown
+        .on("change", function (event) { // when that dropdown changes (mousemove, hover, browser events, etc)
+            const m = event.target.value; // how to get value in the html month value
             updateChart(m); 
         });
 });
