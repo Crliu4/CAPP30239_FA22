@@ -22,7 +22,7 @@
 20,21,"Barret, George, Senior",2,Male,../pics1/21.jpg,parent,#33B5FF
 21,22,"Barret, George, Junior",4,Male,../pics1/22.jpg,parent,#33B5FF
 22,23,"Barron, Hugh",1,Male,../pics1/23.jpg,parent,#33B5FF
-23,24,"Barry, James",38,Male,,parent,#33B5FF
+23,24,"Barry, James",38,Male,../pics1/24.jpg,parent,#33B5FF
 24,25,"Bateman, James",1,Male,../pics1/25.jpg,parent,#33B5FF
 25,26,"Bates, Harry",3,Male,../pics1/26.jpg,parent,#33B5FF
 26,27,"Beach, Thomas",1,Male,../pics1/27.jpg,parent,#33B5FF
@@ -211,7 +211,7 @@
 209,212,"Glover, John",3,Male,../pics1/212.jpg,parent,#33B5FF
 210,213,"Good, Thomas Sword",4,Male,../pics1/213.jpg,parent,#33B5FF
 211,214,"Goodall, Frederick",3,Male,../pics1/214.jpg,parent,#33B5FF
-212,215,"Goodwin, Albert",7,Male,,parent,#33B5FF
+212,215,"Goodwin, Albert",7,Male,../pics1/215.jpg,parent,#33B5FF
 213,216,"Gordon, Sir John Watson",1,Male,../pics1/216.jpg,parent,#33B5FF
 214,217,"Gotch, Thomas Cooper",2,Male,../pics1/217.jpg,parent,#33B5FF
 215,218,"Gow, Andrew Carrick",3,Male,../pics1/218.jpg,parent,#33B5FF
@@ -335,7 +335,7 @@
 333,338,"Le Capelain, Jean",4,Male,../pics1/338.jpg,parent,#33B5FF
 334,339,"Lee, Frederick Richard",6,Male,../pics1/339.jpg,parent,#33B5FF
 335,340,"Lee, Thomas Stirling",1,Male,../pics1/340.jpg,parent,#33B5FF
-336,341,"Legros, Alphonse",36,Male,,parent,#33B5FF
+336,341,"Legros, Alphonse",36,Male,../pics1/341.jpg,parent,#33B5FF
 337,342,"Leighton, Lord Frederic",27,Male,../pics1/342.jpg,parent,#33B5FF
 338,343,"Lely, Sir Peter",8,Male,../pics1/343.jpg,parent,#33B5FF
 339,344,"Lemon, Arthur",2,Male,../pics1/344.jpg,parent,#33B5FF
@@ -351,9 +351,9 @@
 349,354,"Logsdail, William",1,Male,,parent,#33B5FF
 350,355,"Lorimer, John Henry",1,Male,../pics1/355.jpg,parent,#33B5FF
 351,356,"Lucas, John Seymour",1,Male,../pics1/356.jpg,parent,#33B5FF
-352,357,"Macallum, Hamilton",3,Male,,parent,#33B5FF
+352,357,"Macallum, Hamilton",3,Male,../pics1/357.jpg,parent,#33B5FF
 353,358,"Macbeth, Robert Walker",1,Male,../pics1/358.jpg,parent,#33B5FF
-354,359,"Maccallum, Andrew",2,Male,,parent,#33B5FF
+354,359,"Maccallum, Andrew",2,Male,../pics1/359.jpg,parent,#33B5FF
 355,360,"Maccoll, Dugald Sutherland",6,Male,../pics1/360.jpg,parent,#33B5FF
 356,361,"Macdonald, Georgina",1,Female,../pics1/361.jpg,parent,#FF7133
 357,362,"Macgregor, William York",1,Male,../pics1/362.jpg,parent,#33B5FF
@@ -477,7 +477,7 @@
 475,480,"Scott, Samuel",22,Male,../pics1/480.jpg,parent,#33B5FF
 476,481,"Scott, William Bell",2,Male,../pics1/481.jpg,parent,#33B5FF
 477,482,"Seddon, John Pollard",1,Male,../pics1/482.jpg,parent,#33B5FF
-478,483,"Seddon, Thomas",2,Male,,parent,#33B5FF
+478,483,"Seddon, Thomas",2,Male,../pics1/483.jpg,parent,#33B5FF
 479,484,"Segar, Sir William",1,Male,../pics1/484.jpg,parent,#33B5FF
 480,485,"Serres, Dominic",1,Male,../pics1/485.jpg,parent,#33B5FF
 481,486,"Serres, John Thomas",4,Male,../pics1/486.jpg,parent,#33B5FF
@@ -502,7 +502,7 @@
 500,506,"Smith, George, of Chichester",2,Male,../pics1/506.jpg,parent,#33B5FF
 501,507,"Smith, John Thomas",3,Male,../pics1/507.jpg,parent,#33B5FF
 502,508,"Smith, John `Warwick'",38,Male,../pics1/508.jpg,parent,#33B5FF
-503,509,"Smith, Sidney Robert James",2,Male,,parent,#33B5FF
+503,509,"Smith, Sidney Robert James",2,Male,../pics1/509.jpg,parent,#33B5FF
 504,510,"Smythe, Lionel Percy",1,Male,../pics1/510.jpg,parent,#33B5FF
 505,511,"Soest, Gilbert",2,Male,../pics1/511.jpg,parent,#33B5FF
 506,512,"Solomon, Abraham",4,Male,../pics1/512.jpg,parent,#33B5FF
@@ -524,7 +524,7 @@
 522,528,"Stokes, Marianne",1,Female,../pics1/528.jpg,parent,#FF7133
 523,529,"Stone, Marcus",1,Male,../pics1/529.jpg,parent,#33B5FF
 524,530,"Storey, George Adolphus",3,Male,../pics1/530.jpg,parent,#33B5FF
-525,531,"Stothard, Thomas",215,Male,,parent,#33B5FF
+525,531,"Stothard, Thomas",215,Male,../pics1/531.jpg,parent,#33B5FF
 526,532,"Stott, Edward",1,Male,../pics1/532.jpg,parent,#33B5FF
 527,533,"Stott of Oldham, William",1,Male,../pics1/533.jpg,parent,#33B5FF
 528,534,"Strang, William",10,Male,../pics1/534.jpg,parent,#33B5FF
@@ -568,7 +568,7 @@
 566,572,"Holst, Theodor von",2,Male,../pics1/572.jpg,parent,#33B5FF
 567,573,"Wade, Thomas",2,Male,../pics1/573.jpg,parent,#33B5FF
 568,574,"Wainwright, John",1,Male,../pics1/574.jpg,parent,#33B5FF
-569,575,"Walker, Frederick",16,Male,,parent,#33B5FF
+569,575,"Walker, Frederick",16,Male,../pics1/575.jpg,parent,#33B5FF
 570,576,"Waller, Samuel",2,Male,../pics1/576.jpg,parent,#33B5FF
 571,577,"Wallis, Alfred",12,Male,../pics1/577.jpg,parent,#33B5FF
 572,578,"Wallis, Henry",6,Male,../pics1/578.jpg,parent,#33B5FF
@@ -616,7 +616,7 @@
 614,620,"Zoffany, Johan",11,Male,../pics1/620.jpg,parent,#33B5FF
 615,621,"Zuccarelli, Francesco",1,Male,../pics1/621.jpg,parent,#33B5FF
 616,622,"Abrahams, Ivor",108,Male,../pics1/622.jpg,parent,#33B5FF
-617,623,"Acconci, Vito",6,Male,,parent,#33B5FF
+617,623,"Acconci, Vito",6,Male,../pics1/623.jpg,parent,#33B5FF
 618,624,"Ackling, Roger",1,Male,../pics1/624.jpg,parent,#33B5FF
 619,625,"Ackroyd, Norman",5,Male,../pics1/625.jpg,parent,#33B5FF
 620,626,"Adams, Harry William",1,Male,,parent,#33B5FF
@@ -629,9 +629,9 @@
 627,633,"Agar, Eileen",8,Female,../pics1/633.jpg,parent,#FF7133
 628,634,"Aitchison, Craigie",5,Male,../pics1/634.jpg,parent,#33B5FF
 629,635,"Ajmone, Giuseppe",1,Male,,parent,#33B5FF
-630,636,"Albers, Josef",22,Male,,parent,#33B5FF
+630,636,"Albers, Josef",22,Male,../pics1/636.jpg,parent,#33B5FF
 631,637,"Albright, Ivan",1,Male,,parent,#33B5FF
-632,638,"Aldridge, John",2,Male,,parent,#33B5FF
+632,638,"Aldridge, John",2,Male,../pics1/638.jpg,parent,#33B5FF
 633,639,"Alechinsky, Pierre",8,Male,../pics1/639.jpg,parent,#33B5FF
 634,640,"Alexander, Edwin",1,Male,,parent,#33B5FF
 635,641,"Allan, Julian Phelps",1,Female,,parent,#FF7133
@@ -644,11 +644,11 @@
 642,648,"Andre, Carl",10,Male,../pics1/648.jpg,parent,#33B5FF
 643,649,"Andrews, Michael",5,Male,../pics1/649.jpg,parent,#33B5FF
 644,650,"Annesley, David",13,Male,../pics1/650.jpg,parent,#33B5FF
-645,651,"Anquetin, Louis",3,Male,,parent,#33B5FF
-646,652,"Anrep, Boris",2,Male,,parent,#33B5FF
+645,651,"Anquetin, Louis",3,Male,../pics1/651.jpg,parent,#33B5FF
+646,652,"Anrep, Boris",2,Male,../pics1/652.jpg,parent,#33B5FF
 647,653,"Anuszkiewicz, Richard",1,Male,../pics1/653.jpg,parent,#33B5FF
 648,654,"Appel, Karel",7,Male,../pics1/654.jpg,parent,#33B5FF
-649,655,"Appelbee, Leonard",4,Male,,parent,#33B5FF
+649,655,"Appelbee, Leonard",4,Male,../pics1/655.jpg,parent,#33B5FF
 650,656,"Appleyard, Fred",1,Male,../pics1/656.jpg,parent,#33B5FF
 651,657,"Arakawa, Shusaku",1,,,parent,#33B5FF
 652,658,"Archipenko, Alexander",1,Male,../pics1/658.jpg,parent,#33B5FF
@@ -690,7 +690,7 @@
 688,694,"Barker, Margaret",1,Female,../pics1/694.jpg,parent,#FF7133
 689,695,"Barlach, Ernst",1,Male,../pics1/695.jpg,parent,#33B5FF
 690,696,"Barni, Roberto",2,Male,../pics1/696.jpg,parent,#33B5FF
-691,697,"Barns-Graham, Wilhelmina",30,Female,,parent,#FF7133
+691,697,"Barns-Graham, Wilhelmina",30,Female,../pics1/697.jpg,parent,#FF7133
 692,698,"Bartlett, Jennifer",2,Female,../pics1/698.jpg,parent,#FF7133
 693,699,"Baselitz, Georg",68,Male,../pics1/699.jpg,parent,#33B5FF
 694,700,"Baskin, Leonard",1,Male,../pics1/700.jpg,parent,#33B5FF
@@ -699,8 +699,8 @@
 697,703,"Bauchant, André",2,Male,../pics1/703.jpg,parent,#33B5FF
 698,704,"Bauer, Marius",1,Male,../pics1/704.jpg,parent,#33B5FF
 699,705,"Baumeister, Willi",1,Male,../pics1/705.jpg,parent,#33B5FF
-700,706,"Baumgarten, Lothar",12,Male,,parent,#33B5FF
-701,707,"Bawden, Edward",23,Male,,parent,#33B5FF
+700,706,"Baumgarten, Lothar",12,Male,../pics1/706.jpg,parent,#33B5FF
+701,707,"Bawden, Edward",23,Male,../pics1/707.jpg,parent,#33B5FF
 702,708,"Bawden, Richard",2,Male,,parent,#33B5FF
 703,709,"Baxter, Glen",7,Male,../pics1/709.jpg,parent,#33B5FF
 704,710,"Baxter, Iain",1,Male,../pics1/710.jpg,parent,#33B5FF
@@ -725,7 +725,7 @@
 723,729,"Bell, Robert Anning",4,Male,../pics1/729.jpg,parent,#33B5FF
 724,730,"Bell, Trevor",15,Male,../pics1/730.jpg,parent,#33B5FF
 725,731,"Bell, Vanessa",11,Female,../pics1/731.jpg,parent,#FF7133
-726,732,"Bellany, John",30,Male,,parent,#33B5FF
+726,732,"Bellany, John",30,Male,../pics1/732.jpg,parent,#33B5FF
 727,733,"Bellegarde, Claude",1,Male,../pics1/733.jpg,parent,#33B5FF
 728,734,"De Belleroche, Count Albert",1,Male,,parent,#33B5FF
 729,735,"Bellingham-Smith, Elinor",1,Female,../pics1/735.jpg,parent,#FF7133
@@ -746,7 +746,7 @@
 744,750,"Biederman, Charles",1,Male,../pics1/750.jpg,parent,#33B5FF
 745,751,"Binning, Bertram",1,Male,../pics1/751.jpg,parent,#33B5FF
 746,752,"Bionda, Mario",1,Male,,parent,#33B5FF
-747,753,"Birch, Samuel John Lamorna",3,Male,,parent,#33B5FF
+747,753,"Birch, Samuel John Lamorna",3,Male,../pics1/753.jpg,parent,#33B5FF
 748,754,"Bird, John",1,Male,,parent,#33B5FF
 749,755,"Bishop, Henry",3,Male,../pics1/755.jpg,parent,#33B5FF
 750,756,"Bissier, Julius",1,Male,../pics1/756.jpg,parent,#33B5FF
@@ -765,7 +765,7 @@
 763,769,"Bloch, Martin",4,Male,../pics1/769.jpg,parent,#33B5FF
 764,770,"Blow, Sandra",4,Female,../pics1/770.jpg,parent,#FF7133
 765,771,"Boccioni, Umberto",1,Male,../pics1/771.jpg,parent,#33B5FF
-766,772,"Bochner, Mel",2,Male,,parent,#33B5FF
+766,772,"Bochner, Mel",2,Male,../pics1/772.jpg,parent,#33B5FF
 767,773,"Bock, Théophile de",1,Male,,parent,#33B5FF
 768,774,"Boden, Neville",1,Male,../pics1/774.jpg,parent,#33B5FF
 769,775,"Boisvert, Gilles",1,Male,../pics1/775.jpg,parent,#33B5FF
@@ -780,7 +780,7 @@
 778,784,"Borofsky, Jonathan",23,Male,,parent,#33B5FF
 779,785,"Boshier, Derek",10,Male,../pics1/785.jpg,parent,#33B5FF
 780,786,"Bosman, Richard",1,Male,,parent,#33B5FF
-781,787,"Boswell, James",40,Male,,parent,#33B5FF
+781,787,"Boswell, James",40,Male,../pics1/787.jpg,parent,#33B5FF
 782,788,"Boumans, Bart",1,Male,,parent,#33B5FF
 783,789,"Bourdelle, Antoine",1,Male,../pics1/789.jpg,parent,#33B5FF
 784,790,"Bouvier de Cachard, Comte Régis Guy de",4,Male,../pics1/790.jpg,parent,#33B5FF
@@ -790,19 +790,19 @@
 788,794,"Boyce, Sonia",2,Female,../pics1/794.jpg,parent,#FF7133
 789,795,"Boyd and Evans, Fionnuala and Leslie",1,,../pics1/795.jpg,parent,#33B5FF
 790,796,"Boyd, Arthur",10,Male,../pics1/796.jpg,parent,#33B5FF
-791,797,"Boyle, Mark",2,Male,,parent,#33B5FF
+791,797,"Boyle, Mark",2,Male,../pics1/797.jpg,parent,#33B5FF
 792,798,"Bradley, Martin",3,Male,../pics1/798.jpg,parent,#33B5FF
 793,799,"Brammer, Leonard",1,Male,../pics1/799.jpg,parent,#33B5FF
 794,800,"Brancusi, Constantin",4,Male,../pics1/800.jpg,parent,#33B5FF
 795,801,"Brandt, Bill",6,Male,,parent,#33B5FF
-796,802,"Brangwyn, Sir Frank",7,Male,,parent,#33B5FF
+796,802,"Brangwyn, Sir Frank",7,Male,../pics1/802.jpg,parent,#33B5FF
 797,803,"Braque, Georges",14,Male,../pics1/803.jpg,parent,#33B5FF
-798,804,"Bratby, John",6,Male,,parent,#33B5FF
+798,804,"Bratby, John",6,Male,../pics1/804.jpg,parent,#33B5FF
 799,805,"Breakwell, Ian",21,Male,../pics1/805.jpg,parent,#33B5FF
 800,806,"Breeze, Claude",1,Male,,parent,#33B5FF
 801,807,"Breton, André",2,Male,../pics1/807.jpg,parent,#33B5FF
 802,808,"Brett, Bernard",2,Male,,parent,#33B5FF
-803,809,"Brett, The Hon. Dorothy",3,Female,,parent,#FF7133
+803,809,"Brett, The Hon. Dorothy",3,Female,../pics1/809.jpg,parent,#FF7133
 804,810,"Bridgewater, Alan",1,Male,,parent,#33B5FF
 805,811,"Briggs, Ernest",1,Male,,parent,#33B5FF
 806,812,"Brill, Frederick",1,Male,,parent,#33B5FF
@@ -826,7 +826,7 @@
 824,830,"Buhler, Robert",2,Male,../pics1/830.jpg,parent,#33B5FF
 825,831,"Bundy, Edgar",1,Male,../pics1/831.jpg,parent,#33B5FF
 826,832,"Burchfield, Charles",1,Male,,parent,#33B5FF
-827,833,"Buren, Daniel",2,Male,,parent,#33B5FF
+827,833,"Buren, Daniel",2,Male,../pics1/833.jpg,parent,#33B5FF
 828,834,"Burgin, Victor",12,Male,../pics1/834.jpg,parent,#33B5FF
 829,835,"Burkert, Robert",5,Male,../pics1/835.jpg,parent,#33B5FF
 830,836,"Burn, Rodney J.",6,Male,../pics1/836.jpg,parent,#33B5FF
@@ -847,7 +847,7 @@
 845,851,"Cameron, Sir David",5,Male,../pics1/851.jpg,parent,#33B5FF
 846,852,"Cameron, Katherine",2,Female,../pics1/852.jpg,parent,#FF7133
 847,853,"Camp, Jeffery",2,Male,../pics1/853.jpg,parent,#33B5FF
-848,854,"Campbell, Steven",2,Male,,parent,#33B5FF
+848,854,"Campbell, Steven",2,Male,../pics1/854.jpg,parent,#33B5FF
 849,855,"Canin, Martin",6,Male,,parent,#33B5FF
 850,856,"Capel Doray, Audrey",1,Female,../pics1/856.jpg,parent,#FF7133
 851,857,"Carder, Malcolm",1,Male,,parent,#33B5FF
@@ -916,10 +916,10 @@
 914,921,"Clough, Prunella",29,Female,../pics1/921.jpg,parent,#FF7133
 915,922,"Coates, George",1,Male,../pics1/922.jpg,parent,#33B5FF
 916,923,"Cockram, George",1,Male,,parent,#33B5FF
-917,924,"Cohen, Bernard",48,Male,,parent,#33B5FF
+917,924,"Cohen, Bernard",48,Male,../pics1/924.jpg,parent,#33B5FF
 918,925,"Cohen, Harold",52,Male,../pics1/925.jpg,parent,#33B5FF
 919,926,"Coker, Peter",10,Male,../pics1/926.jpg,parent,#33B5FF
-920,927,"Coldstream, Sir William",13,Male,,parent,#33B5FF
+920,927,"Coldstream, Sir William",13,Male,../pics1/927.jpg,parent,#33B5FF
 921,928,"Colescott, Warrington",6,Male,../pics1/928.jpg,parent,#33B5FF
 922,929,"Colla, Ettore",5,Male,,parent,#33B5FF
 923,930,"Collins, Cecil",75,Male,../pics1/930.jpg,parent,#33B5FF
@@ -943,7 +943,7 @@
 941,948,"Couderc, Gabriel",1,Male,../pics1/948.jpg,parent,#33B5FF
 942,949,"Cowie, James",1,Male,../pics1/949.jpg,parent,#33B5FF
 943,950,"Cowper, Frank Cadogan",2,Male,../pics1/950.jpg,parent,#33B5FF
-944,951,"Cox, Stephen",14,Male,,parent,#33B5FF
+944,951,"Cox, Stephen",14,Male,../pics1/951.jpg,parent,#33B5FF
 945,952,"Coxon, Raymond",2,Male,../pics1/952.jpg,parent,#33B5FF
 946,953,"Cragg, Tony",13,Male,../pics1/953.jpg,parent,#33B5FF
 947,954,"Craig, Frank",1,Male,../pics1/954.jpg,parent,#33B5FF
@@ -955,7 +955,7 @@
 953,960,"Crippa, Roberto",1,Male,,parent,#33B5FF
 954,961,"Critchlow, Keith",1,Male,../pics1/961.jpg,parent,#33B5FF
 955,962,"Crotti, Jean",1,Male,../pics1/962.jpg,parent,#33B5FF
-956,963,"Crutchfield, William",10,Male,,parent,#33B5FF
+956,963,"Crutchfield, William",10,Male,../pics1/963.jpg,parent,#33B5FF
 957,964,"Cruz-Diez, Carlos",2,Male,../pics1/964.jpg,parent,#33B5FF
 958,965,"Cuixart, Modestos",1,Male,../pics1/965.jpg,parent,#33B5FF
 959,966,"Cundall, Charles",2,Male,../pics1/966.jpg,parent,#33B5FF
@@ -998,13 +998,13 @@
 996,1005,"Dillon, Michael",2,Male,,parent,#33B5FF
 997,1006,"Dilworth, Norman",4,Male,../pics1/1006.jpg,parent,#33B5FF
 998,1007,"Dimitrienko, Pierre",1,Male,,parent,#33B5FF
-999,1008,"Dimitrijevic, Braco",10,Male,,parent,#33B5FF
+999,1008,"Dimitrijevic, Braco",10,Male,../pics1/1008.jpg,parent,#33B5FF
 1000,1009,"Dine, Jim",42,Male,../pics1/1009.jpg,parent,#33B5FF
 1001,1010,"Dinkel, Ernest M.",1,Male,,parent,#33B5FF
 1002,1011,"Disler, Martin",12,Male,../pics1/1011.jpg,parent,#33B5FF
 1003,1012,"Dismorr, Jessica",2,Female,../pics1/1012.jpg,parent,#FF7133
 1004,1013,"Dixon, Harry",1,Male,,parent,#33B5FF
-1005,1014,"Dobson, Frank",16,Male,,parent,#33B5FF
+1005,1014,"Dobson, Frank",16,Male,../pics1/1014.jpg,parent,#33B5FF
 1006,1015,"Dodd, Francis",6,Male,../pics1/1015.jpg,parent,#33B5FF
 1007,1016,"Dodgson, John",8,Male,../pics1/1016.jpg,parent,#33B5FF
 1008,1017,"Doesburg, Theo van",1,Male,../pics1/1017.jpg,parent,#33B5FF
@@ -1037,7 +1037,7 @@
 1035,1044,"Dunstan, Bernard",2,Male,,parent,#33B5FF
 1036,1045,"Dufresne, Charles",1,Male,../pics1/1045.jpg,parent,#33B5FF
 1037,1046,"Durrant, Jennifer",2,Female,../pics1/1046.jpg,parent,#FF7133
-1038,1047,"Durst, Alan L.",3,Male,,parent,#33B5FF
+1038,1047,"Durst, Alan L.",3,Male,../pics1/1047.jpg,parent,#33B5FF
 1039,1048,"Dzamonja, Dusan",1,Male,,parent,#33B5FF
 1040,1049,"Eardley, Joan",1,Female,../pics1/1049.jpg,parent,#FF7133
 1041,1050,"Edwards, Jeffery",5,Male,../pics1/1050.jpg,parent,#33B5FF
@@ -1059,14 +1059,14 @@
 1057,1066,Erté,15,Male,../pics1/1066.jpg,parent,#33B5FF
 1058,1067,"Estes, Richard",2,Male,,parent,#33B5FF
 1059,1068,"Estève, Maurice",2,Male,../pics1/1068.jpg,parent,#33B5FF
-1060,1069,"Etchells, Frederick",5,Male,,parent,#33B5FF
+1060,1069,"Etchells, Frederick",5,Male,../pics1/1069.jpg,parent,#33B5FF
 1061,1070,"Etrog, Sorel",1,Male,,parent,#33B5FF
 1062,1071,"Eurich, Richard",5,Male,../pics1/1071.jpg,parent,#33B5FF
 1063,1072,"Evans, Garth",10,Male,../pics1/1072.jpg,parent,#33B5FF
-1064,1073,"Evans, Merlyn Oliver",10,Male,,parent,#33B5FF
+1064,1073,"Evans, Merlyn Oliver",10,Male,../pics1/1073.jpg,parent,#33B5FF
 1065,1074,"Eves, Reginald G",2,Male,../pics1/1074.jpg,parent,#33B5FF
 1066,1075,"Eyton, Anthony",3,Male,../pics1/1075.jpg,parent,#33B5FF
-1067,1076,"Fabro, Luciano",6,Male,,parent,#33B5FF
+1067,1076,"Fabro, Luciano",6,Male,../pics1/1076.jpg,parent,#33B5FF
 1068,1077,"Fairweather, Ian",1,Male,../pics1/1077.jpg,parent,#33B5FF
 1069,1078,"Falkenstein, Claire",1,Female,,parent,#FF7133
 1070,1079,"Fantin-Latour, Henri",5,Male,../pics1/1079.jpg,parent,#33B5FF
@@ -1090,8 +1090,8 @@
 1088,1097,"Fisher, Melton",1,Male,../pics1/1097.jpg,parent,#33B5FF
 1089,1098,"Fisher, Roy",5,Male,,parent,#33B5FF
 1090,1099,"Fitton, James",1,Male,../pics1/1099.jpg,parent,#33B5FF
-1091,1100,"Flanagan, Barry",162,Male,,parent,#33B5FF
-1092,1101,"Flavin, Dan",2,Male,,parent,#33B5FF
+1091,1100,"Flanagan, Barry",162,Male,../pics1/1100.jpg,parent,#33B5FF
+1092,1101,"Flavin, Dan",2,Male,../pics1/1101.jpg,parent,#33B5FF
 1093,1102,"Fontana, Lucio",4,Male,../pics1/1102.jpg,parent,#33B5FF
 1094,1103,"Forain, Jean-Louis",3,Male,../pics1/1103.jpg,parent,#33B5FF
 1095,1104,"Forbes, Vivian",1,Female,../pics1/1104.jpg,parent,#FF7133
@@ -1123,7 +1123,7 @@
 1121,1130,"Fuchs, Emil",1,Male,../pics1/1130.jpg,parent,#33B5FF
 1122,1131,"Fullard, George",2,Male,../pics1/1131.jpg,parent,#33B5FF
 1123,1132,"Fuller, Sue",1,Female,,parent,#FF7133
-1124,1133,"Fulton, Hamish",34,Male,,parent,#33B5FF
+1124,1133,"Fulton, Hamish",34,Male,../pics1/1133.jpg,parent,#33B5FF
 1125,1134,"Furse, Charles Wellington",4,Male,../pics1/1134.jpg,parent,#33B5FF
 1126,1135,"Fussell, Michael",1,Male,../pics1/1135.jpg,parent,#33B5FF
 1127,1136,"Fyzee-Rahamin, Samuel",2,Male,,parent,#33B5FF
@@ -1174,7 +1174,7 @@
 1172,1181,"Goeneutte, Norbert",1,Male,../pics1/1181.jpg,parent,#33B5FF
 1173,1182,"Gogh, Vincent van",4,Male,../pics1/1182.jpg,parent,#33B5FF
 1174,1183,"Golden, Grace",2,Female,,parent,#FF7133
-1175,1184,"Golding, John",4,Male,,parent,#33B5FF
+1175,1184,"Golding, John",4,Male,../pics1/1184.jpg,parent,#33B5FF
 1176,1185,"Goldschmidt, Hilde",1,Female,,parent,#FF7133
 1177,1186,"Goncharova, Natalya",6,Female,../pics1/1186.jpg,parent,#FF7133
 1178,1187,"González, Joan",40,Male,../pics1/1187.jpg,parent,#33B5FF
@@ -1182,7 +1182,7 @@
 1180,1189,"Gordine, Dora",4,Female,../pics1/1189.jpg,parent,#FF7133
 1181,1190,"Gore, Spencer",18,Male,../pics1/1190.jpg,parent,#33B5FF
 1182,1191,"Gorky, Arshile",1,Male,../pics1/1191.jpg,parent,#33B5FF
-1183,1192,"Gormley, Antony",8,Male,,parent,#33B5FF
+1183,1192,"Gormley, Antony",8,Male,../pics1/1192.jpg,parent,#33B5FF
 1184,1193,"Gosse, Sylvia",1,Female,,parent,#FF7133
 1185,1194,"Gotlib, Henryk",1,Male,../pics1/1194.jpg,parent,#33B5FF
 1186,1195,"Gottlieb, Adolph",4,Male,../pics1/1195.jpg,parent,#33B5FF
@@ -1252,12 +1252,12 @@
 1250,1260,"Heath, Adrian",6,Male,../pics1/1260.jpg,parent,#33B5FF
 1251,1261,"Hegedusic, Krsto",1,Male,,parent,#33B5FF
 1252,1262,"Heiliger, Bernhard",1,Male,,parent,#33B5FF
-1253,1263,"Mack, Heinz",2,Male,,parent,#33B5FF
+1253,1263,"Mack, Heinz",2,Male,../pics1/1263.jpg,parent,#33B5FF
 1254,1264,"Hélion, Jean",3,Male,../pics1/1264.jpg,parent,#33B5FF
 1255,1265,"Helleu, Paul",1,Male,../pics1/1265.jpg,parent,#33B5FF
 1256,1266,"Helman, Robert",1,Male,../pics1/1266.jpg,parent,#33B5FF
 1257,1267,"Henderson, Elsie Marian",2,Female,,parent,#FF7133
-1258,1268,"Henderson, Nigel",17,Male,,parent,#33B5FF
+1258,1268,"Henderson, Nigel",17,Male,../pics1/1268.jpg,parent,#33B5FF
 1259,1269,"Henderson, William",2,Male,../pics1/1269.jpg,parent,#33B5FF
 1260,1270,"Henderson-Begg, Liselott",1,Male,,parent,#33B5FF
 1261,1271,"Hennell, Thomas",5,Male,../pics1/1271.jpg,parent,#33B5FF
@@ -1268,21 +1268,21 @@
 1266,1276,"Herman, Josef",33,Male,../pics1/1276.jpg,parent,#33B5FF
 1267,1277,"Hermes, Gertrude",11,Female,../pics1/1277.jpg,parent,#FF7133
 1268,1278,"Heron, Patrick",92,Male,../pics1/1278.jpg,parent,#33B5FF
-1269,1279,"Herring, Ed",8,Male,,parent,#33B5FF
+1269,1279,"Herring, Ed",8,Male,../pics1/1279.jpg,parent,#33B5FF
 1270,1280,"Hesse, Eva",5,Female,../pics1/1280.jpg,parent,#FF7133
 1271,1281,"Heyboer, Anton",3,Male,,parent,#33B5FF
 1272,1282,"Hicks, Philip",3,Male,../pics1/1282.jpg,parent,#33B5FF
-1273,1283,"Hide, Peter",2,Male,,parent,#33B5FF
+1273,1283,"Hide, Peter",2,Male,../pics1/1283.jpg,parent,#33B5FF
 1274,1284,"Hill, Anthony",11,Male,../pics1/1284.jpg,parent,#33B5FF
 1275,1285,"Hill, Derek",2,Male,../pics1/1285.jpg,parent,#33B5FF
 1276,1286,"Hiller, Susan",7,Female,../pics1/1286.jpg,parent,#FF7133
-1277,1287,"Hilliard, John",7,Male,,parent,#33B5FF
+1277,1287,"Hilliard, John",7,Male,../pics1/1287.jpg,parent,#33B5FF
 1278,1288,"Hillier, Tristram",5,Male,../pics1/1288.jpg,parent,#33B5FF
 1279,1289,"Hilton, Roger",18,Male,../pics1/1289.jpg,parent,#33B5FF
 1280,1290,"Hirst, Derek",11,Male,../pics1/1290.jpg,parent,#33B5FF
 1281,1291,"Hitchens, Ivon",21,Male,../pics1/1291.jpg,parent,#33B5FF
 1282,1292,"Hobbs, Peter",7,Male,,parent,#33B5FF
-1283,1293,"Hockney, David",111,Male,,parent,#33B5FF
+1283,1293,"Hockney, David",111,Male,../pics1/1293.jpg,parent,#33B5FF
 1284,1294,"Hodgkin, Eliot",3,Male,../pics1/1294.jpg,parent,#33B5FF
 1285,1295,"Hodgkin, Howard",68,Male,../pics1/1295.jpg,parent,#33B5FF
 1286,1296,"Hodgkins, Frances",8,Female,../pics1/1296.jpg,parent,#FF7133
@@ -1304,7 +1304,7 @@
 1302,1312,"House, Gordon",110,Male,../pics1/1312.jpg,parent,#33B5FF
 1303,1313,"Housman, Laurence",2,Male,,parent,#33B5FF
 1304,1314,"Houshiary, Shirazeh",15,Female,../pics1/1314.jpg,parent,#FF7133
-1305,1315,"Houthuesen, Albert",35,Male,,parent,#33B5FF
+1305,1315,"Houthuesen, Albert",35,Male,../pics1/1315.jpg,parent,#33B5FF
 1306,1316,"How, Beatrice",1,Female,../pics1/1316.jpg,parent,#FF7133
 1307,1317,"Howell, Peter",1,Male,,parent,#33B5FF
 1308,1318,"Hoyland, John",39,Male,../pics1/1318.jpg,parent,#33B5FF
@@ -1331,8 +1331,8 @@
 1329,1339,"Ipoustéguy, Jean",1,Male,../pics1/1339.jpg,parent,#33B5FF
 1330,1340,"Ireland, Geoffrey",2,Male,,parent,#33B5FF
 1331,1341,"Ironside, Robin",1,Male,../pics1/1341.jpg,parent,#33B5FF
-1332,1342,"Irvin, Albert",6,Male,,parent,#33B5FF
-1333,1343,"Irwin, Gwyther",4,Male,,parent,#33B5FF
+1332,1342,"Irvin, Albert",6,Male,../pics1/1342.jpg,parent,#33B5FF
+1333,1343,"Irwin, Gwyther",4,Male,../pics1/1343.jpg,parent,#33B5FF
 1334,1344,"Jack, Richard",1,Male,../pics1/1344.jpg,parent,#33B5FF
 1335,1345,"Jacklin, Bill",14,Male,../pics1/1345.jpg,parent,#33B5FF
 1336,1346,"Jackson, Alexander Young",1,Male,../pics1/1346.jpg,parent,#33B5FF
@@ -1351,7 +1351,7 @@
 1349,1359,"Jenkins, Paul",1,Male,,parent,#33B5FF
 1350,1360,"Jennings, Humphrey",3,Male,../pics1/1360.jpg,parent,#33B5FF
 1351,1361,"Jesih, Boris",1,Male,,parent,#33B5FF
-1352,1362,"John, Augustus, OM",42,Male,,parent,#33B5FF
+1352,1362,"John, Augustus, OM",42,Male,../pics1/1362.jpg,parent,#33B5FF
 1353,1363,"John, Gwen",14,Female,../pics1/1363.jpg,parent,#FF7133
 1354,1364,"John, Sir William Goscombe",2,Male,,parent,#33B5FF
 1355,1365,"Johns, Jasper",31,Male,../pics1/1365.jpg,parent,#33B5FF
@@ -1366,7 +1366,7 @@
 1364,1374,"Jonzen, Karin",1,Female,,parent,#FF7133
 1365,1375,"Jorn, Asger",5,Male,../pics1/1375.jpg,parent,#33B5FF
 1366,1376,"Joseph, Lily D.",1,Female,../pics1/1376.jpg,parent,#FF7133
-1367,1377,"Joseph, Peter",2,Male,,parent,#33B5FF
+1367,1377,"Joseph, Peter",2,Male,../pics1/1377.jpg,parent,#33B5FF
 1368,1378,"Judd, Donald",41,Male,../pics1/1378.jpg,parent,#33B5FF
 1369,1379,"Jungman, Nico",1,Male,../pics1/1379.jpg,parent,#33B5FF
 1370,1380,"Kadishman, Menashe",41,Male,../pics1/1380.jpg,parent,#33B5FF
@@ -1424,8 +1424,8 @@
 1422,1433,"Kooning, Willem de",6,Male,../pics1/1433.jpg,parent,#33B5FF
 1423,1434,"Koppel, Heinz",2,Male,../pics1/1434.jpg,parent,#33B5FF
 1424,1435,"Korner, John",1,Male,,parent,#33B5FF
-1425,1436,"Kossoff, Leon",116,Male,,parent,#33B5FF
-1426,1437,"Kosuth, Joseph",3,Male,,parent,#33B5FF
+1425,1436,"Kossoff, Leon",116,Male,../pics1/1436.jpg,parent,#33B5FF
+1426,1437,"Kosuth, Joseph",3,Male,../pics1/1437.jpg,parent,#33B5FF
 1427,1438,"Kounellis, Jannis",32,Male,../pics1/1438.jpg,parent,#33B5FF
 1428,1439,"Kramer, Harry",2,Male,../pics1/1439.jpg,parent,#33B5FF
 1429,1440,"Kramer, Jacob",4,Male,../pics1/1440.jpg,parent,#33B5FF
@@ -1440,11 +1440,11 @@
 1438,1449,"Kupka, Frantisek",1,Male,,parent,#33B5FF
 1439,1450,"Kushner, Robert",1,Male,,parent,#33B5FF
 1440,1451,"Laabs, Hans",1,Male,../pics1/1451.jpg,parent,#33B5FF
-1441,1452,"Lacey, Bruce",2,Male,,parent,#33B5FF
+1441,1452,"Lacey, Bruce",2,Male,../pics1/1452.jpg,parent,#33B5FF
 1442,1453,"La Dell, Edwin",1,Male,../pics1/1453.jpg,parent,#33B5FF
 1443,1454,"Laing, Gerald",1,Male,../pics1/1454.jpg,parent,#33B5FF
 1444,1455,"Lam, Wifredo",2,Male,../pics1/1455.jpg,parent,#33B5FF
-1445,1456,"Lamb, Henry",10,Male,,parent,#33B5FF
+1445,1456,"Lamb, Henry",10,Male,../pics1/1456.jpg,parent,#33B5FF
 1446,1457,"Lamb, Lynton",1,Male,../pics1/1457.jpg,parent,#33B5FF
 1447,1458,"Lambert, Maurice",4,Male,../pics1/1458.jpg,parent,#33B5FF
 1448,1459,"Lambourn, George",1,Male,,parent,#33B5FF
@@ -1492,7 +1492,7 @@
 1490,1501,"Lewis, Morland",2,Male,../pics1/1501.jpg,parent,#33B5FF
 1491,1502,"Lewis, Wyndham",24,Male,../pics1/1502.jpg,parent,#33B5FF
 1492,1503,"Le Witt, Jan",1,Male,,parent,#33B5FF
-1493,1504,"LeWitt, Sol",94,Male,,parent,#33B5FF
+1493,1504,"LeWitt, Sol",94,Male,../pics1/1504.jpg,parent,#33B5FF
 1494,1505,"Van Leyden, Ernst",1,Male,,parent,#33B5FF
 1495,1506,"Lhote, André",1,Male,../pics1/1506.jpg,parent,#33B5FF
 1496,1507,"Liberman, Alexander",1,Male,../pics1/1507.jpg,parent,#33B5FF
@@ -1500,7 +1500,7 @@
 1498,1509,"Liebermann, Max",4,Male,../pics1/1509.jpg,parent,#33B5FF
 1499,1510,"Lightfoot, Maxwell Gordon",1,Male,../pics1/1510.jpg,parent,#33B5FF
 1500,1511,"Lijn, Liliane",7,Female,../pics1/1511.jpg,parent,#FF7133
-1501,1512,"Lim, Kim",59,Female,,parent,#FF7133
+1501,1512,"Lim, Kim",59,Female,../pics1/1512.jpg,parent,#FF7133
 1502,1513,"Lin, Richard",12,Male,,parent,#33B5FF
 1503,1514,"Lindner, Richard",2,Male,../pics1/1514.jpg,parent,#33B5FF
 1504,1515,"Lindström, Bengt",1,Male,../pics1/1515.jpg,parent,#33B5FF
@@ -1525,7 +1525,7 @@
 1523,1534,"Lozoff, Abrasha",1,Male,,parent,#33B5FF
 1524,1535,Lucy and Eegyudluk,2,,,parent,#33B5FF
 1525,1536,"Lundquist, Evert",1,Male,../pics1/1536.jpg,parent,#33B5FF
-1526,1537,"MacBryde, Robert",4,Male,,parent,#33B5FF
+1526,1537,"MacBryde, Robert",4,Male,../pics1/1537.jpg,parent,#33B5FF
 1527,1538,"Maccari, Mino",1,Male,../pics1/1538.jpg,parent,#33B5FF
 1528,1539,"Macdonald, Frances",2,Female,../pics1/1539.jpg,parent,#FF7133
 1529,1540,"Mach, David",2,Male,,parent,#33B5FF
@@ -1542,7 +1542,7 @@
 1540,1551,"Maddox, Conroy",4,Male,../pics1/1551.jpg,parent,#33B5FF
 1541,1552,"Maddox, Ronald",3,Male,,parent,#33B5FF
 1542,1553,"Magritte, René",5,Male,../pics1/1553.jpg,parent,#33B5FF
-1543,1554,"Mahoney, Charles",4,Male,,parent,#33B5FF
+1543,1554,"Mahoney, Charles",4,Male,../pics1/1554.jpg,parent,#33B5FF
 1544,1555,"Maillol, Aristide",4,Male,../pics1/1555.jpg,parent,#33B5FF
 1545,1556,"De Maistre, Roy",5,Male,../pics1/1556.jpg,parent,#33B5FF
 1546,1557,"Maitec, Ovidiu",1,Male,,parent,#33B5FF
@@ -1586,14 +1586,14 @@
 1584,1595,"Maufra, Maxime",1,Male,../pics1/1595.jpg,parent,#33B5FF
 1585,1596,"Maundrell, Charles",1,Male,../pics1/1596.jpg,parent,#33B5FF
 1586,1597,"Maurer, Dora",2,Female,../pics1/1597.jpg,parent,#FF7133
-1587,1598,"Mauve, Anton",3,Male,,parent,#33B5FF
+1587,1598,"Mauve, Anton",3,Male,../pics1/1598.jpg,parent,#33B5FF
 1588,1599,"Maxwell, John",2,Male,../pics1/1599.jpg,parent,#33B5FF
 1589,1600,"May, Phil",6,Male,../pics1/1600.jpg,parent,#33B5FF
 1590,1601,"Mayor, Fred",1,Male,../pics1/1601.jpg,parent,#33B5FF
 1591,1602,"Maze, Paul",3,Male,../pics1/1602.jpg,parent,#33B5FF
 1592,1603,"McCartney, Linda",14,Female,,parent,#FF7133
 1593,1604,"McComb, Leonard",13,Male,../pics1/1604.jpg,parent,#33B5FF
-1594,1605,"McEvoy, Ambrose",15,Male,,parent,#33B5FF
+1594,1605,"McEvoy, Ambrose",15,Male,../pics1/1605.jpg,parent,#33B5FF
 1595,1606,"McEvoy, Mary",1,Female,../pics1/1606.jpg,parent,#FF7133
 1596,1607,"McEwen, Rory",2,Male,../pics1/1607.jpg,parent,#33B5FF
 1597,1608,"McFall, David B.",1,Male,,parent,#33B5FF
@@ -1601,7 +1601,7 @@
 1599,1610,"McLean, Bruce",21,Male,../pics1/1610.jpg,parent,#33B5FF
 1600,1611,"McLean, John",1,Male,../pics1/1611.jpg,parent,#33B5FF
 1601,1612,"McMillan, William",1,Male,,parent,#33B5FF
-1602,1613,"McWilliam, F.E.",9,Male,,parent,#33B5FF
+1602,1613,"McWilliam, F.E.",9,Male,../pics1/1613.jpg,parent,#33B5FF
 1603,1614,"Mead, Dorothy",1,Female,../pics1/1614.jpg,parent,#FF7133
 1604,1615,"Meadows, Bernard",14,Male,../pics1/1615.jpg,parent,#33B5FF
 1605,1616,"Medley, Robert",10,Male,../pics1/1616.jpg,parent,#33B5FF
@@ -1612,7 +1612,7 @@
 1610,1621,"Meneeley, Ed",1,Male,,parent,#33B5FF
 1611,1622,"Meninsky, Bernard",4,Male,../pics1/1622.jpg,parent,#33B5FF
 1612,1623,"Merz, Mario",6,Male,../pics1/1623.jpg,parent,#33B5FF
-1613,1624,"Mesens, E.L.T.",4,Male,,parent,#33B5FF
+1613,1624,"Mesens, E.L.T.",4,Male,../pics1/1624.jpg,parent,#33B5FF
 1614,1625,"Meštrovic, Ivan",5,Male,../pics1/1625.jpg,parent,#33B5FF
 1615,1626,"Methuen, Lord",5,Male,../pics1/1626.jpg,parent,#33B5FF
 1616,1627,"Metzinger, Jean",1,Male,../pics1/1627.jpg,parent,#33B5FF
@@ -1626,7 +1626,7 @@
 1624,1635,"Millington, Terence",1,Male,,parent,#33B5FF
 1625,1636,"Milne, John",1,Male,,parent,#33B5FF
 1626,1637,"Milne, Malcolm",1,Male,,parent,#33B5FF
-1627,1638,"Milow, Keith",18,Male,,parent,#33B5FF
+1627,1638,"Milow, Keith",18,Male,../pics1/1638.jpg,parent,#33B5FF
 1628,1639,"Milton, Peter",1,Male,../pics1/1639.jpg,parent,#33B5FF
 1629,1640,"Minami, Keiko",1,Female,,parent,#FF7133
 1630,1641,"Minaux, André",1,Male,../pics1/1641.jpg,parent,#33B5FF
@@ -1640,7 +1640,7 @@
 1638,1649,"Moholy-Nagy, László",1,Male,../pics1/1649.jpg,parent,#33B5FF
 1639,1650,"Moira, Gerald",1,Male,,parent,#33B5FF
 1640,1651,"Mondrian, Piet",5,Male,../pics1/1651.jpg,parent,#33B5FF
-1641,1652,"Monet, Claude",3,Male,,parent,#33B5FF
+1641,1652,"Monet, Claude",3,Male,../pics1/1652.jpg,parent,#33B5FF
 1642,1653,"Monnington, Sir Thomas",4,Male,../pics1/1653.jpg,parent,#33B5FF
 1643,1654,"Monro, Nicholas",22,Male,../pics1/1654.jpg,parent,#33B5FF
 1644,1655,"Montpetit, Guy",1,Male,../pics1/1655.jpg,parent,#33B5FF
@@ -1653,7 +1653,7 @@
 1651,1662,"Moreton, Warwick",1,Male,,parent,#33B5FF
 1652,1663,"Morisot, Berthe",1,Female,../pics1/1663.jpg,parent,#FF7133
 1653,1664,"Morley, Harry",1,Male,../pics1/1664.jpg,parent,#33B5FF
-1654,1665,"Morley, Malcolm",15,Male,,parent,#33B5FF
+1654,1665,"Morley, Malcolm",15,Male,../pics1/1665.jpg,parent,#33B5FF
 1655,1666,"Morrice, James Wilson",1,Male,../pics1/1666.jpg,parent,#33B5FF
 1656,1667,"Morris, Sir Cedric, Bt",11,Male,../pics1/1667.jpg,parent,#33B5FF
 1657,1668,"Morris, Michael",1,Male,,parent,#33B5FF
@@ -1684,13 +1684,13 @@
 1682,1693,"Nechamkin, Sarah",1,Female,,parent,#FF7133
 1683,1694,"Neiland, Brendan",4,Male,../pics1/1694.jpg,parent,#33B5FF
 1684,1695,"Nemon, Oscar",1,Male,,parent,#33B5FF
-1685,1696,"Nevelson, Louise",7,Female,,parent,#FF7133
+1685,1696,"Nevelson, Louise",7,Female,../pics1/1696.jpg,parent,#FF7133
 1686,1697,"Nevinson, Christopher Richard Wynne",18,Male,../pics1/1697.jpg,parent,#33B5FF
 1687,1698,"Newman, Avis",14,Male,../pics1/1698.jpg,parent,#33B5FF
 1688,1699,"Newman, Barnett",23,Male,../pics1/1699.jpg,parent,#33B5FF
 1689,1700,"Newton, Algernon",2,Male,../pics1/1700.jpg,parent,#33B5FF
 1690,1701,"Nicholls, Bertram",2,Male,../pics1/1701.jpg,parent,#33B5FF
-1691,1702,"Nicholson, Ben, OM",80,Male,,parent,#33B5FF
+1691,1702,"Nicholson, Ben, OM",80,Male,../pics1/1702.jpg,parent,#33B5FF
 1692,1703,"Nicholson, Sir William",28,Male,../pics1/1703.jpg,parent,#33B5FF
 1693,1704,"Nicholson, Winifred",8,Female,../pics1/1704.jpg,parent,#FF7133
 1694,1705,"Nimptsch, Uli",2,Male,,parent,#33B5FF
@@ -1713,7 +1713,7 @@
 1711,1722,"Oppenheim, Dennis",7,Male,../pics1/1722.jpg,parent,#33B5FF
 1712,1723,"Opsomer, Isidore",1,Male,../pics1/1723.jpg,parent,#33B5FF
 1713,1724,"Organ, Bryan",16,Male,,parent,#33B5FF
-1714,1725,"Orpen, Sir William",29,Male,,parent,#33B5FF
+1714,1725,"Orpen, Sir William",29,Male,../pics1/1725.jpg,parent,#33B5FF
 1715,1726,"Orr, Chris",1,Male,,parent,#33B5FF
 1716,1727,"Osborn, William Evelyn",2,Male,../pics1/1727.jpg,parent,#33B5FF
 1717,1728,"Ospovat, Henry",2,Male,../pics1/1728.jpg,parent,#33B5FF
@@ -1726,7 +1726,7 @@
 1724,1735,"Palmer, Garrick",1,Male,../pics1/1735.jpg,parent,#33B5FF
 1725,1736,"Palmer, Roger",6,Male,,parent,#33B5FF
 1726,1737,"Paolini, Giulio",7,Male,,parent,#33B5FF
-1727,1738,"Paolozzi, Sir Eduardo",385,Male,,parent,#33B5FF
+1727,1738,"Paolozzi, Sir Eduardo",385,Male,../pics1/1738.jpg,parent,#33B5FF
 1728,1739,"Park, Alistair",1,Male,../pics1/1739.jpg,parent,#33B5FF
 1729,1740,"Park, John A.",2,Male,../pics1/1740.jpg,parent,#33B5FF
 1730,1741,"Parker, Harold",1,Male,,parent,#33B5FF
@@ -1739,7 +1739,7 @@
 1737,1748,"Peacock, Ralph",2,Male,../pics1/1748.jpg,parent,#33B5FF
 1738,1749,"Pearlstein, Philip",2,Male,../pics1/1749.jpg,parent,#33B5FF
 1739,1750,"Pearsh, Kevin",1,Male,,parent,#33B5FF
-1740,1751,"Pegram, Henry Alfred",2,Male,,parent,#33B5FF
+1740,1751,"Pegram, Henry Alfred",2,Male,../pics1/1751.jpg,parent,#33B5FF
 1741,1752,"Penagos, Rafael",2,Male,../pics1/1752.jpg,parent,#33B5FF
 1742,1753,"Penck, A.R.",7,Male,,parent,#33B5FF
 1743,1754,"Penone, Giuseppe",17,Male,../pics1/1754.jpg,parent,#33B5FF
@@ -1759,7 +1759,7 @@
 1757,1768,"Pichet, Roland",1,Male,,parent,#33B5FF
 1758,1769,"Piché, Roland",10,Male,,parent,#33B5FF
 1759,1770,"Pickard, Louise",2,Female,../pics1/1770.jpg,parent,#FF7133
-1760,1771,"Pignon, Edouard",2,Male,,parent,#33B5FF
+1760,1771,"Pignon, Edouard",2,Male,../pics1/1771.jpg,parent,#33B5FF
 1761,1772,"Pinkney, Richard",17,Male,../pics1/1772.jpg,parent,#33B5FF
 1762,1773,"Piper, Edward",8,Male,,parent,#33B5FF
 1763,1774,"Piper, John",183,Male,../pics1/1774.jpg,parent,#33B5FF
@@ -1786,7 +1786,7 @@
 1784,1796,"Potworowski, Peter",1,Male,../pics1/1796.jpg,parent,#33B5FF
 1785,1797,"Prendergast, Peter",1,Male,../pics1/1797.jpg,parent,#33B5FF
 1786,1798,"Priest, Margaret",1,Female,../pics1/1798.jpg,parent,#FF7133
-1787,1799,"Pringle, John Quinton",4,Male,,parent,#33B5FF
+1787,1799,"Pringle, John Quinton",4,Male,../pics1/1799.jpg,parent,#33B5FF
 1788,1800,"Procktor, Patrick",11,Male,,parent,#33B5FF
 1789,1801,"Procter, Dod",3,Female,../pics1/1801.jpg,parent,#FF7133
 1790,1802,"Procter, Ernest",1,Male,../pics1/1802.jpg,parent,#33B5FF
@@ -1830,7 +1830,7 @@
 1828,1840,"Richmond, Oliffe",8,Male,,parent,#33B5FF
 1829,1841,"Richter, Gerhard",21,Male,../pics1/1841.jpg,parent,#33B5FF
 1830,1842,"Richter, Vjenceslav",1,Male,../pics1/1842.jpg,parent,#33B5FF
-1831,1843,"Ricketts, Charles",14,Male,,parent,#33B5FF
+1831,1843,"Ricketts, Charles",14,Male,../pics1/1843.jpg,parent,#33B5FF
 1832,1844,"Rickey, George",2,Male,,parent,#33B5FF
 1833,1845,"Riley, Bridget",31,Female,../pics1/1845.jpg,parent,#FF7133
 1834,1846,"Rinke, Klaus",1,Male,,parent,#33B5FF
@@ -1839,7 +1839,7 @@
 1837,1849,"Rivera, Diego",2,Male,,parent,#33B5FF
 1838,1850,"De Rivera, José",1,Male,,parent,#33B5FF
 1839,1851,"Rivera, Manuel",2,Male,,parent,#33B5FF
-1840,1852,"Rivers, Larry",33,Male,,parent,#33B5FF
+1840,1852,"Rivers, Larry",33,Male,../pics1/1852.jpg,parent,#33B5FF
 1841,1853,"Robb, Brian",1,Male,,parent,#33B5FF
 1842,1854,"Roberts, Donald",3,Male,,parent,#33B5FF
 1843,1855,"Roberts, William",142,Male,../pics1/1855.jpg,parent,#33B5FF
@@ -1852,7 +1852,7 @@
 1850,1863,"Romiti, Sergio",1,Male,,parent,#33B5FF
 1851,1864,"Roschlau, Michael",1,Male,,parent,#33B5FF
 1852,1865,"Rosenberg, Isaac",1,Male,../pics1/1865.jpg,parent,#33B5FF
-1853,1866,"Rosenquist, James",21,Male,,parent,#33B5FF
+1853,1866,"Rosenquist, James",21,Male,../pics1/1866.jpg,parent,#33B5FF
 1854,1867,"Rosoman, Leonard",2,Male,../pics1/1867.jpg,parent,#33B5FF
 1855,1868,"Rosso, Medardo",1,Male,../pics1/1868.jpg,parent,#33B5FF
 1856,1869,"Roszak, Theodore",1,Male,../pics1/1869.jpg,parent,#33B5FF
@@ -1881,7 +1881,7 @@
 1879,1892,"Salle, David",9,Male,../pics1/1892.jpg,parent,#33B5FF
 1880,1893,"Salt, John",1,Male,../pics1/1893.jpg,parent,#33B5FF
 1881,1894,"Sander, Ludwig",1,Male,,parent,#33B5FF
-1882,1895,"Sandle, Michael",6,Male,,parent,#33B5FF
+1882,1895,"Sandle, Michael",6,Male,../pics1/1895.jpg,parent,#33B5FF
 1883,1896,"Sands, Ethel",3,Female,../pics1/1896.jpg,parent,#FF7133
 1884,1897,"Sandys, Edwina",17,Female,,parent,#FF7133
 1885,1898,"Sargant, Francis W.",1,Male,,parent,#33B5FF
@@ -1895,15 +1895,15 @@
 1893,1906,"Schneider, Gerard",1,Male,../pics1/1906.jpg,parent,#33B5FF
 1894,1907,"Schoonhoven, Jan",1,Male,../pics1/1907.jpg,parent,#33B5FF
 1895,1908,"Schorr, Raoh",1,Male,,parent,#33B5FF
-1896,1909,"Schuffenecker, Emile",4,Male,,parent,#33B5FF
+1896,1909,"Schuffenecker, Emile",4,Male,../pics1/1909.jpg,parent,#33B5FF
 1897,1910,"Schumacher, Emil",4,Male,../pics1/1910.jpg,parent,#33B5FF
 1898,1911,"Schwabe, Randolph",3,Male,../pics1/1911.jpg,parent,#33B5FF
 1899,1912,"Schwitters, Kurt",16,Male,../pics1/1912.jpg,parent,#33B5FF
 1900,1913,"Scott, Campbell",1,Male,,parent,#33B5FF
 1901,1914,"Scott, Robert",1,Male,,parent,#33B5FF
-1902,1915,"Scott, Tim",12,Male,,parent,#33B5FF
-1903,1916,"Scott, William",47,Male,,parent,#33B5FF
-1904,1917,"Scully, Sean",40,Male,,parent,#33B5FF
+1902,1915,"Scott, Tim",12,Male,../pics1/1915.jpg,parent,#33B5FF
+1903,1916,"Scott, William",47,Male,../pics1/1916.jpg,parent,#33B5FF
+1904,1917,"Scully, Sean",40,Male,../pics1/1917.jpg,parent,#33B5FF
 1905,1918,"Seabrooke, Elliott",5,Male,,parent,#33B5FF
 1906,1919,"Sedgley, Peter",14,Male,../pics1/1919.jpg,parent,#33B5FF
 1907,1920,"Sefran, Gorazd",1,Male,,parent,#33B5FF
@@ -1924,7 +1924,7 @@
 1922,1935,"Shapiro, Shmuel",11,Male,,parent,#33B5FF
 1923,1936,"Shelley, John",1,Male,../pics1/1936.jpg,parent,#33B5FF
 1924,1937,"Sheringham, George",2,Male,../pics1/1937.jpg,parent,#33B5FF
-1925,1938,"Sherman, Cindy",30,Female,,parent,#FF7133
+1925,1938,"Sherman, Cindy",30,Female,../pics1/1938.jpg,parent,#FF7133
 1926,1939,"Sichel, Ernest Leopold",1,Male,../pics1/1939.jpg,parent,#33B5FF
 1927,1940,"Sickert, Bernard",1,Male,../pics1/1940.jpg,parent,#33B5FF
 1928,1941,"Sickert, Walter Richard",50,Male,../pics1/1941.jpg,parent,#33B5FF
@@ -1980,11 +1980,11 @@
 1978,1991,"Stein, Ronald",1,Male,,parent,#33B5FF
 1979,1992,"Steinlen, Théophile-Alexandre",1,Male,,parent,#33B5FF
 1980,1993,"Steir, Pat",7,Female,,parent,#FF7133
-1981,1994,"Stella, Frank",66,Male,,parent,#33B5FF
+1981,1994,"Stella, Frank",66,Male,../pics1/1994.jpg,parent,#33B5FF
 1982,1995,"Stephenson, Ian",16,Male,../pics1/1995.jpg,parent,#33B5FF
 1983,1996,"Stephenson, John Cecil",1,Male,../pics1/1996.jpg,parent,#33B5FF
 1984,1997,"Sterne, Maurice",1,Male,,parent,#33B5FF
-1985,1998,"Stevens, Norman",18,Male,,parent,#33B5FF
+1985,1998,"Stevens, Norman",18,Male,../pics1/1998.jpg,parent,#33B5FF
 1986,1999,"Stevenson, James",1,Male,../pics1/1999.jpg,parent,#33B5FF
 1987,2000,"Stezaker, John",13,Male,../pics1/2000.jpg,parent,#33B5FF
 1988,2001,"Still, Clyfford",1,Male,../pics1/2001.jpg,parent,#33B5FF
@@ -2009,7 +2009,7 @@
 2007,2020,"Talmage, Algernon",1,Male,../pics1/2020.jpg,parent,#33B5FF
 2008,2021,"Tamayo, Rufino",3,Male,,parent,#33B5FF
 2009,2022,"Tanabe, Takao",1,Male,,parent,#33B5FF
-2010,2023,"Tanguy, Yves",3,Male,,parent,#33B5FF
+2010,2023,"Tanguy, Yves",3,Male,../pics1/2023.jpg,parent,#33B5FF
 2011,2024,"Tanning, Dorothea",5,Female,../pics1/2024.jpg,parent,#FF7133
 2012,2025,"Tapies, Antoni",5,Male,../pics1/2025.jpg,parent,#33B5FF
 2013,2027,"Taylor, Leonard Campbell",1,Male,,parent,#33B5FF
@@ -2048,7 +2048,7 @@
 2046,2061,"Townsend, William",3,Male,../pics1/2061.jpg,parent,#33B5FF
 2047,2062,"Travis, Ann",1,Female,,parent,#FF7133
 2048,2063,"Tremblay, Gerard",1,Male,,parent,#33B5FF
-2049,2064,"Tremlett, David",4,Male,,parent,#33B5FF
+2049,2064,"Tremlett, David",4,Male,../pics1/2064.jpg,parent,#33B5FF
 2050,2065,"Trevelyan, Julian",105,Male,../pics1/2065.jpg,parent,#33B5FF
 2051,2066,"Trockel, Rosemarie",13,Female,../pics1/2066.jpg,parent,#FF7133
 2052,2067,"Troostwyk, David",1,Male,,parent,#33B5FF
@@ -2058,7 +2058,7 @@
 2056,2071,"Tsai, Wen-Ying",1,Male,,parent,#33B5FF
 2057,2072,"Tsapline, Dmitri",1,Male,,parent,#33B5FF
 2058,2073,"Tucker, William",37,Male,../pics1/2073.jpg,parent,#33B5FF
-2059,2074,"Tunnard, John",7,Male,,parent,#33B5FF
+2059,2074,"Tunnard, John",7,Male,../pics1/2074.jpg,parent,#33B5FF
 2060,2075,"Turnbull, William",69,Male,../pics1/2075.jpg,parent,#33B5FF
 2061,2076,"Turner, Alfred",2,Male,../pics1/2076.jpg,parent,#33B5FF
 2062,2077,"Turner, Winifred",1,Female,,parent,#FF7133
@@ -2100,12 +2100,12 @@
 2098,2113,"Wadsworth, Edward",13,Male,../pics1/2113.jpg,parent,#33B5FF
 2099,2114,"Walker, Arthur G",1,Male,../pics1/2114.jpg,parent,#33B5FF
 2100,2115,"Walker, Dame Ethel",14,Female,../pics1/2115.jpg,parent,#FF7133
-2101,2116,"Walker, John",135,Male,,parent,#33B5FF
+2101,2116,"Walker, John",135,Male,../pics1/2116.jpg,parent,#33B5FF
 2102,2117,"Wall, Brian",1,Male,,parent,#33B5FF
 2103,2118,"Walmsley, William",1,Male,../pics1/2118.jpg,parent,#33B5FF
 2104,2119,"Walton, Edward Arthur",1,Male,../pics1/2119.jpg,parent,#33B5FF
 2105,2120,"Wardle, Arthur",1,Male,,parent,#33B5FF
-2106,2121,"Warhol, Andy",272,Male,,parent,#33B5FF
+2106,2121,"Warhol, Andy",272,Male,../pics1/2121.jpg,parent,#33B5FF
 2107,2122,"Warren, Michael",2,Male,,parent,#33B5FF
 2108,2123,"Watson, Harry",1,Male,../pics1/2123.jpg,parent,#33B5FF
 2109,2124,"Spencer Watson, George",2,Male,../pics1/2124.jpg,parent,#33B5FF
@@ -2116,7 +2116,7 @@
 2114,2129,"Wellington, Hubert L.",1,Male,../pics1/2129.jpg,parent,#33B5FF
 2115,2130,"Wells, John",22,Male,../pics1/2130.jpg,parent,#33B5FF
 2116,2131,"Wemaere, Pierre",1,Male,,parent,#33B5FF
-2117,2132,"Wentworth, Richard",8,Male,,parent,#33B5FF
+2117,2132,"Wentworth, Richard",8,Male,../pics1/2132.jpg,parent,#33B5FF
 2118,2133,"Weschke, Karl",7,Male,../pics1/2133.jpg,parent,#33B5FF
 2119,2134,"Wesselmann, Tom",1,Male,../pics1/2134.jpg,parent,#33B5FF
 2120,2135,"West, Walter",1,Male,../pics1/2135.jpg,parent,#33B5FF
@@ -2126,7 +2126,7 @@
 2124,2139,"Whishaw, Anthony",1,Male,,parent,#33B5FF
 2125,2140,"Whistler, Rex",2,Male,../pics1/2140.jpg,parent,#33B5FF
 2126,2141,"White, Ethelbert",2,Male,../pics1/2141.jpg,parent,#33B5FF
-2127,2142,"Whiteley, Brett",18,Male,,parent,#33B5FF
+2127,2142,"Whiteley, Brett",18,Male,../pics1/2142.jpg,parent,#33B5FF
 2128,2143,"Whitney-Smith, Edwin",1,Male,../pics1/2143.jpg,parent,#33B5FF
 2129,2144,"Wiens, Stephen M.",1,Male,,parent,#33B5FF
 2130,2145,"Wilde, Gerald",3,Male,../pics1/2145.jpg,parent,#33B5FF
@@ -2139,7 +2139,7 @@
 2137,2152,"Wilson, Scottie",2,Male,../pics1/2152.jpg,parent,#33B5FF
 2138,2153,"Wines, James",1,Male,,parent,#33B5FF
 2139,2154,"Winner, Gerd",122,Male,../pics1/2154.jpg,parent,#33B5FF
-2140,2155,"Winters, Terry",76,Male,,parent,#33B5FF
+2140,2155,"Winters, Terry",76,Male,../pics1/2155.jpg,parent,#33B5FF
 2141,2156,"Wise, Gillian",5,Female,../pics1/2156.jpg,parent,#FF7133
 2142,2157,"Wiseman, Albany",10,Male,,parent,#33B5FF
 2143,2158,"Wiszniewski, Adrian",3,Male,,parent,#33B5FF
@@ -2147,12 +2147,12 @@
 2145,2160,"Wolfe, Edward",2,Male,../pics1/2160.jpg,parent,#33B5FF
 2146,2161,"Wolfe, Robert",1,Male,,parent,#33B5FF
 2147,2162,"Wolff, Robert Jay",1,Male,,parent,#33B5FF
-2148,2163,"Wolmark, Alfred",2,Male,,parent,#33B5FF
+2148,2163,"Wolmark, Alfred",2,Male,../pics1/2163.jpg,parent,#33B5FF
 2149,2164,Wols,34,Male,../pics1/2164.jpg,parent,#33B5FF
 2150,2165,"Wong, Judy",1,Female,,parent,#FF7133
-2151,2166,"Wonnacott, John",3,Male,,parent,#33B5FF
+2151,2166,"Wonnacott, John",3,Male,../pics1/2166.jpg,parent,#33B5FF
 2152,2167,"Wood, Christopher",7,Male,../pics1/2167.jpg,parent,#33B5FF
-2153,2168,"Wood, F. Derwent",13,Male,,parent,#33B5FF
+2153,2168,"Wood, F. Derwent",13,Male,../pics1/2168.jpg,parent,#33B5FF
 2154,2169,"Woodham, Derrick",1,Male,,parent,#33B5FF
 2155,2170,"Woodrow, Bill",38,Male,../pics1/2170.jpg,parent,#33B5FF
 2156,2171,"Wotruba, Fritz",1,Male,,parent,#33B5FF
@@ -2194,13 +2194,13 @@
 2192,2207,"Golub, Leon",4,Male,../pics1/2207.jpg,parent,#33B5FF
 2193,2209,"Kolár, Jirí",4,Male,,parent,#33B5FF
 2194,2210,"Klein, Astrid",1,Female,,parent,#FF7133
-2195,2211,"Peri, Peter",4,Male,,parent,#33B5FF
+2195,2211,"Peri, Peter",4,Male,../pics1/2211.jpg,parent,#33B5FF
 2196,2212,"Mistry, Dhruva",1,Male,,parent,#33B5FF
-2197,2213,"Polke, Sigmar",6,Male,,parent,#33B5FF
+2197,2213,"Polke, Sigmar",6,Male,../pics1/2213.jpg,parent,#33B5FF
 2198,2214,"Collinson, James",3,Male,../pics1/2214.jpg,parent,#33B5FF
 2199,2215,"Cucchi, Enzo",1,Male,,parent,#33B5FF
 2200,2216,"Turner, F.C.",1,Male,../pics1/2216.jpg,parent,#33B5FF
-2201,2217,"Haacke, Hans",3,Male,,parent,#33B5FF
+2201,2217,"Haacke, Hans",3,Male,../pics1/2217.jpg,parent,#33B5FF
 2202,2218,"Gibbons, John",2,Male,../pics1/2218.jpg,parent,#33B5FF
 2203,2219,"Williams, Glynn",1,Male,,parent,#33B5FF
 2204,2220,"Milroy, Lisa",16,Female,../pics1/2220.jpg,parent,#FF7133
@@ -2239,7 +2239,7 @@
 2237,2259,Highmore,47,,,parent,#33B5FF
 2238,2260,"Förg, Günther",15,Male,,parent,#33B5FF
 2239,2261,"Cleyn, Francis",1,Male,../pics1/2261.jpg,parent,#33B5FF
-2240,2262,"Creffield, Dennis",8,Male,,parent,#33B5FF
+2240,2262,"Creffield, Dennis",8,Male,../pics1/2262.jpg,parent,#33B5FF
 2241,2263,"Butts, John",1,Male,../pics1/2263.jpg,parent,#33B5FF
 2242,2264,"Brüning, Peter",1,Male,,parent,#33B5FF
 2243,2265,"Frye, Thomas",1,Male,../pics1/2265.jpg,parent,#33B5FF
@@ -2291,7 +2291,7 @@
 2289,2313,"Pine, Robert Edge",1,Male,../pics1/2313.jpg,parent,#33B5FF
 2290,2314,"Williams, Aubrey",4,Male,../pics1/2314.jpg,parent,#33B5FF
 2291,2315,"Cosway, Richard",2,Male,../pics1/2315.jpg,parent,#33B5FF
-2292,2317,"Palermo, Blinky",35,Male,,parent,#33B5FF
+2292,2317,"Palermo, Blinky",35,Male,../pics1/2317.jpg,parent,#33B5FF
 2293,2318,"Horsfield, Craigie",4,Male,../pics1/2318.jpg,parent,#33B5FF
 2294,2319,"Whiteread, Rachel",30,Female,../pics1/2319.jpg,parent,#FF7133
 2295,2321,"Pearce, Bryan",1,Male,../pics1/2321.jpg,parent,#33B5FF
@@ -2306,7 +2306,7 @@
 2304,2334,"Burney, Edward Francis",6,Male,../pics1/2334.jpg,parent,#33B5FF
 2305,2335,"McKeever, Ian",41,Male,../pics1/2335.jpg,parent,#33B5FF
 2306,2336,"Muñoz, Juan",6,Male,../pics1/2336.jpg,parent,#33B5FF
-2307,2337,"Graham, Paul",14,Male,,parent,#33B5FF
+2307,2337,"Graham, Paul",14,Male,../pics1/2337.jpg,parent,#33B5FF
 2308,2338,"Martini, Arturo",1,Male,../pics1/2338.jpg,parent,#33B5FF
 2309,2339,"Struth, Thomas",18,Male,../pics1/2339.jpg,parent,#33B5FF
 2310,2340,"Chandler, J.W.",1,Male,../pics1/2340.jpg,parent,#33B5FF
@@ -2329,10 +2329,10 @@
 2327,2358,"Parker, Cornelia",21,Female,../pics1/2358.jpg,parent,#FF7133
 2328,2359,"Wall, Jeff",6,Male,../pics1/2359.jpg,parent,#33B5FF
 2329,2360,"Balka, Miroslaw",12,Male,../pics1/2360.jpg,parent,#33B5FF
-2330,2361,"Doig, Peter",41,Male,,parent,#33B5FF
+2330,2361,"Doig, Peter",41,Male,../pics1/2361.jpg,parent,#33B5FF
 2331,2362,"Barney, Matthew",2,Male,../pics1/2362.jpg,parent,#33B5FF
 2332,2363,"Collins, Hannah",2,Female,../pics1/2363.jpg,parent,#FF7133
-2333,2364,"Araeen, Rasheed",13,Male,,parent,#33B5FF
+2333,2364,"Araeen, Rasheed",13,Male,../pics1/2364.jpg,parent,#33B5FF
 2334,2365,"Hatoum, Mona",10,Female,../pics1/2365.jpg,parent,#FF7133
 2335,2366,"Oursler, Tony",3,Male,,parent,#33B5FF
 2336,2367,"May, Nicholas",2,Male,,parent,#33B5FF
@@ -2342,7 +2342,7 @@
 2340,2371,"Bevan, Tony",21,Male,../pics1/2371.jpg,parent,#33B5FF
 2341,2372,"Malchair, John Baptist",19,Male,../pics1/2372.jpg,parent,#33B5FF
 2342,2373,"Wright, Edward",1,Male,,parent,#33B5FF
-2343,2374,"Schütte, Thomas",156,Male,,parent,#33B5FF
+2343,2374,"Schütte, Thomas",156,Male,../pics1/2374.jpg,parent,#33B5FF
 2344,2375,"Coleman, James",2,Male,,parent,#33B5FF
 2345,2376,"Hill, Gary",2,Male,../pics1/2376.jpg,parent,#33B5FF
 2346,2377,"Malinowski, Antoni",1,Male,../pics1/2377.jpg,parent,#33B5FF
@@ -2366,16 +2366,16 @@
 2364,2395,"Zittel, Andrea",1,Female,../pics1/2395.jpg,parent,#FF7133
 2365,2396,"Callery, Simon",1,Male,../pics1/2396.jpg,parent,#33B5FF
 2366,2397,"Patterson, Simon",2,Male,,parent,#33B5FF
-2367,2398,"Austen, David",11,Male,,parent,#33B5FF
+2367,2398,"Austen, David",11,Male,../pics1/2398.jpg,parent,#33B5FF
 2368,2399,"Spero, Nancy",1,Female,../pics1/2399.jpg,parent,#FF7133
 2369,2400,"Samaras, Lucas",2,Male,../pics1/2400.jpg,parent,#33B5FF
-2370,2401,"Mucha, Reinhard",2,Male,,parent,#33B5FF
+2370,2401,"Mucha, Reinhard",2,Male,../pics1/2401.jpg,parent,#33B5FF
 2371,2402,"Horn, Roni",19,Female,../pics1/2402.jpg,parent,#FF7133
 2372,2403,"Hume, Gary",23,Male,../pics1/2403.jpg,parent,#33B5FF
 2373,2404,"Hamilton, Ann",1,Female,../pics1/2404.jpg,parent,#FF7133
-2374,2405,"Collins, Elisabeth",4,Female,,parent,#FF7133
+2374,2405,"Collins, Elisabeth",4,Female,../pics1/2405.jpg,parent,#FF7133
 2375,2406,"Khakhar, Bhupen",1,Male,../pics1/2406.jpg,parent,#33B5FF
-2376,2407,"Dumas, Marlene",10,Female,,parent,#FF7133
+2376,2407,"Dumas, Marlene",10,Female,../pics1/2407.jpg,parent,#FF7133
 2377,2408,"Pippin, Steven",17,Male,../pics1/2408.jpg,parent,#33B5FF
 2378,2409,"Landy, Michael",16,Male,../pics1/2409.jpg,parent,#33B5FF
 2379,2410,"Oliveira, Nathan",1,Male,,parent,#33B5FF
@@ -2565,13 +2565,13 @@
 2563,2597,"Wigram, Max",1,Male,,parent,#33B5FF
 2564,2598,"Denis, Dominic",1,Male,,parent,#33B5FF
 2565,2599,"Langlands and Bell, Ben and Nikki",13,,../pics1/2599.jpg,parent,#33B5FF
-2566,2600,"Quinn, Marc",11,Male,,parent,#33B5FF
+2566,2600,"Quinn, Marc",11,Male,../pics1/2600.jpg,parent,#33B5FF
 2567,2601,"Wood, Craig",1,Male,,parent,#33B5FF
-2568,2602,"Ruff, Thomas",5,Male,,parent,#33B5FF
+2568,2602,"Ruff, Thomas",5,Male,../pics1/2602.jpg,parent,#33B5FF
 2569,2603,"Cooke, Jean",1,Female,../pics1/2603.jpg,parent,#FF7133
 2570,2604,"Reinagle, Philip",1,Male,../pics1/2604.jpg,parent,#33B5FF
 2571,2605,"Hugonin, James",1,Male,../pics1/2605.jpg,parent,#33B5FF
-2572,2606,Absalon,6,Male,,parent,#33B5FF
+2572,2606,Absalon,6,Male,../pics1/2606.jpg,parent,#33B5FF
 2573,2607,"Fielding, Brian",1,Male,../pics1/2607.jpg,parent,#33B5FF
 2574,2608,"Adshead, Mary",2,Female,../pics1/2608.jpg,parent,#FF7133
 2575,2612,"Tuymans, Luc",15,Male,,parent,#33B5FF
@@ -2579,7 +2579,7 @@
 2577,2614,"Chapman, Jake",25,Male,../pics1/2614.jpg,parent,#33B5FF
 2578,2615,"Rawsthorne, Isabel",1,Female,../pics1/2615.jpg,parent,#FF7133
 2579,2616,"Naylor, Martin",9,Male,,parent,#33B5FF
-2580,2617,"Gordon, Douglas",5,Male,,parent,#33B5FF
+2580,2617,"Gordon, Douglas",5,Male,../pics1/2617.jpg,parent,#33B5FF
 2581,2618,"Belloguet, A.",2,,../pics1/2618.jpg,parent,#33B5FF
 2582,2619,"Dunker, Balthazar Anton",1,Male,../pics1/2619.jpg,parent,#33B5FF
 2583,2620,"Hardie, Martin",3,Male,,parent,#33B5FF
@@ -2673,7 +2673,7 @@
 2671,2729,"Cartier-Bresson, Henri",2,Male,,parent,#33B5FF
 2672,2730,"Wool, Christopher",2,Male,../pics1/2730.jpg,parent,#33B5FF
 2673,2731,"Celmins, Vija",35,Female,../pics1/2731.jpg,parent,#FF7133
-2674,2732,"Doherty, Willie",7,Male,,parent,#33B5FF
+2674,2732,"Doherty, Willie",7,Male,../pics1/2732.jpg,parent,#33B5FF
 2675,2733,"Ford, Laura",1,Female,../pics1/2733.jpg,parent,#FF7133
 2676,2734,"Karshan, Linda",6,Female,../pics1/2734.jpg,parent,#FF7133
 2677,2735,"Smith, Stephanie",1,,,parent,#33B5FF
@@ -2684,20 +2684,20 @@
 2682,2740,"Boitard, Louis Philippe",1,Male,,parent,#33B5FF
 2683,2745,"Matthiasdottir, Louisa",1,Female,../pics1/2745.jpg,parent,#FF7133
 2684,2746,"Martin, Barry",4,Male,../pics1/2746.jpg,parent,#33B5FF
-2685,2747,"Tillmans, Wolfgang",63,Male,,parent,#33B5FF
+2685,2747,"Tillmans, Wolfgang",63,Male,../pics1/2747.jpg,parent,#33B5FF
 2686,2748,"Villeglé, Jacques Mahé de la",1,Male,../pics1/2748.jpg,parent,#33B5FF
 2687,2749,"Billingham, Richard",2,Male,../pics1/2749.jpg,parent,#33B5FF
 2688,2750,"Parr, Martin",5,Male,,parent,#33B5FF
-2689,2751,"Ray, Charles",2,Male,,parent,#33B5FF
+2689,2751,"Ray, Charles",2,Male,../pics1/2751.jpg,parent,#33B5FF
 2690,2752,"Araki, Nobuyoshi",2,Male,,parent,#33B5FF
 2691,2753,"Levine, Sherrie",1,Female,,parent,#FF7133
-2692,2754,"Pettibon, Raymond",4,Male,,parent,#33B5FF
+2692,2754,"Pettibon, Raymond",4,Male,../pics1/2754.jpg,parent,#33B5FF
 2693,2755,"Roberts, Julie",1,Female,,parent,#FF7133
 2694,2756,"Abbott, Berenice",3,Female,,parent,#FF7133
 2695,2757,"Fischli, Peter",7,Male,../pics1/2757.jpg,parent,#33B5FF
 2696,2759,"Bleckner, Ross",1,Male,,parent,#33B5FF
 2697,2760,"Creed, Martin",13,Male,../pics1/2760.jpg,parent,#33B5FF
-2698,2761,"Floyer, Ceal",6,Female,,parent,#FF7133
+2698,2761,"Floyer, Ceal",6,Female,../pics1/2761.jpg,parent,#FF7133
 2699,2762,"Higgs, Matthew",1,Male,,parent,#33B5FF
 2700,2763,"King, Scott",1,Male,,parent,#33B5FF
 2701,2764,"Klein, Jochen",1,Male,,parent,#33B5FF
@@ -2718,7 +2718,7 @@
 2716,2782,"Ullman, Micha",5,Male,,parent,#33B5FF
 2717,2783,"Reeb, David",4,Male,,parent,#33B5FF
 2718,2784,"Kuper, Roi",8,Male,,parent,#33B5FF
-2719,2785,"Ophir, Gilad",12,Male,,parent,#33B5FF
+2719,2785,"Ophir, Gilad",12,Male,../pics1/2785.jpg,parent,#33B5FF
 2720,2786,"Prendergast, Kathy",3,Female,../pics1/2786.jpg,parent,#FF7133
 2721,2787,"McLaughlin, John",1,Male,,parent,#33B5FF
 2722,2788,"Kilpper, Thomas",22,Male,../pics1/2788.jpg,parent,#33B5FF
@@ -2729,7 +2729,7 @@
 2727,2799,"Devis, Arthur",5,Male,../pics1/2799.jpg,parent,#33B5FF
 2728,3028,"Essenhigh, Inka",3,Female,../pics1/3028.jpg,parent,#FF7133
 2729,3034,"Deller, Jeremy",5,Male,../pics1/3034.jpg,parent,#33B5FF
-2730,3038,"Douglas, Stan",21,Male,,parent,#33B5FF
+2730,3038,"Douglas, Stan",21,Male,../pics1/3038.jpg,parent,#33B5FF
 2731,3042,"Quadri, Saleem Arif",1,Male,../pics1/3042.jpg,parent,#33B5FF
 2732,3047,"Neel, Alice",4,Female,../pics1/3047.jpg,parent,#FF7133
 2733,3068,"Kienholz, Edward",2,Male,,parent,#33B5FF
@@ -2742,7 +2742,7 @@
 2740,3088,"Wolff, Christian",1,Male,,parent,#33B5FF
 2741,3094,"Branson, Clive",5,Male,../pics1/3094.jpg,parent,#33B5FF
 2742,3095,"Wright, Austin",1,Male,,parent,#33B5FF
-2743,3096,"Edmier, Keith",2,Male,,parent,#33B5FF
+2743,3096,"Edmier, Keith",2,Male,../pics1/3096.jpg,parent,#33B5FF
 2744,3098,"Ahtila, Eija-Liisa",1,Female,,parent,#FF7133
 2745,3099,"Morris, Sarah",11,Female,../pics1/3099.jpg,parent,#FF7133
 2746,3101,"Nicolson, Seamus",2,Male,../pics1/3101.jpg,parent,#33B5FF
@@ -2756,7 +2756,7 @@
 2754,3824,"Brunias, Agostino",1,Male,../pics1/3824.jpg,parent,#33B5FF
 2755,4019,"Julien, Isaac",1,Male,../pics1/4019.jpg,parent,#33B5FF
 2756,4020,"Nelson, Mike",2,Male,../pics1/4020.jpg,parent,#33B5FF
-2757,4147,"Wilson, Jane",3,Female,,parent,#FF7133
+2757,4147,"Wilson, Jane",3,Female,../pics1/4147.jpg,parent,#FF7133
 2758,4231,"Muniz, Vik",1,Male,../pics1/4231.jpg,parent,#33B5FF
 2759,4381,"Bowen, Denis",3,Male,../pics1/4381.jpg,parent,#33B5FF
 2760,4427,"Alÿs, Francis",13,Male,../pics1/4427.jpg,parent,#33B5FF
@@ -2764,7 +2764,7 @@
 2762,4451,"Takahashi, Tomoko",1,Female,,parent,#FF7133
 2763,4531,"Green, William",1,Male,../pics1/4531.jpg,parent,#33B5FF
 2764,4541,"Smithson, Robert",1,Male,,parent,#33B5FF
-2765,4547,"Meyer, Bill",5,Male,,parent,#33B5FF
+2765,4547,"Meyer, Bill",5,Male,../pics1/4547.jpg,parent,#33B5FF
 2766,4561,Inventory,1,,,parent,#33B5FF
 2767,4599,"City Racing (Matt Hale; Paul Noble, born 1963; John Burgess; Keith Coventry, born 1958; Peter Owen)",1,Male,,parent,#33B5FF
 2768,4611,"Dalwood, Dexter",2,Male,../pics1/4611.jpg,parent,#33B5FF
@@ -2775,8 +2775,8 @@
 2773,4731,"Barclay, Claire",4,Female,,parent,#FF7133
 2774,4733,"Lambie, Jim",4,Male,../pics1/4733.jpg,parent,#33B5FF
 2775,4734,"Rothschild, Eva",4,Female,../pics1/4734.jpg,parent,#FF7133
-2776,4736,"Webb, Gary",2,Male,,parent,#33B5FF
-2777,4744,"Cooper, Thomas Joshua",5,Male,,parent,#33B5FF
+2776,4736,"Webb, Gary",2,Male,../pics1/4736.jpg,parent,#33B5FF
+2777,4744,"Cooper, Thomas Joshua",5,Male,../pics1/4744.jpg,parent,#33B5FF
 2778,4745,"Finn-Kelcey, Rose",1,Female,../pics1/4745.jpg,parent,#FF7133
 2779,4749,"Rayson, David",1,Male,../pics1/4749.jpg,parent,#33B5FF
 2780,4753,"Shimamoto, Shozo",2,Male,../pics1/4753.jpg,parent,#33B5FF
@@ -2788,7 +2788,7 @@
 2786,4828,"Leonard, Zoe",5,Female,../pics1/4828.jpg,parent,#FF7133
 2787,4829,"Virtue, John",1,Male,../pics1/4829.jpg,parent,#33B5FF
 2788,4831,"Espaliú, Pepe",2,Male,,parent,#33B5FF
-2789,4915,"Batchelor, David",2,Male,,parent,#33B5FF
+2789,4915,"Batchelor, David",2,Male,../pics1/4915.jpg,parent,#33B5FF
 2790,4918,"Tyson, Keith",1,Male,../pics1/4918.jpg,parent,#33B5FF
 2791,4955,"Piper, Keith",1,Male,../pics1/4955.jpg,parent,#33B5FF
 2792,4956,"Sedira, Zineb",2,Female,,parent,#FF7133
@@ -2801,7 +2801,7 @@
 2799,5251,"Philipsz, Susan",1,Female,,parent,#FF7133
 2800,5253,"Shaw, George",1,Male,../pics1/5253.jpg,parent,#33B5FF
 2801,5271,"Arbus, Diane",69,Female,,parent,#FF7133
-2802,5275,"Frank, Robert",26,Male,,parent,#33B5FF
+2802,5275,"Frank, Robert",26,Male,../pics1/5275.jpg,parent,#33B5FF
 2803,5287,"Fini, Leonor",1,Female,../pics1/5287.jpg,parent,#FF7133
 2804,5293,"Friedlander, Lee",1,Male,,parent,#33B5FF
 2805,5319,"Sander, August",5,Male,,parent,#33B5FF
@@ -2810,7 +2810,7 @@
 2808,5446,"Schneemann, Carolee",1,Female,,parent,#FF7133
 2809,5448,"McFadyen, Jock",2,Male,../pics1/5448.jpg,parent,#33B5FF
 2810,5459,"Neshat, Shirin",1,Female,../pics1/5459.jpg,parent,#FF7133
-2811,5463,"Huyghe, Pierre",4,Male,,parent,#33B5FF
+2811,5463,"Huyghe, Pierre",4,Male,../pics1/5463.jpg,parent,#33B5FF
 2812,5465,"Rist, Pipilotti",1,Female,,parent,#FF7133
 2813,5466,"Hays, Dan",1,Male,../pics1/5466.jpg,parent,#33B5FF
 2814,5468,"Collins, Phil",6,Male,../pics1/5468.jpg,parent,#33B5FF
@@ -2827,32 +2827,32 @@
 2825,6009,"Müller, Matthias",1,Male,,parent,#33B5FF
 2826,6024,"Macchi, Jorge",2,Male,../pics1/6024.jpg,parent,#33B5FF
 2827,6085,"Hammons, David",1,Male,,parent,#33B5FF
-2828,6110,"Titchner, Mark",3,Male,,parent,#33B5FF
+2828,6110,"Titchner, Mark",3,Male,../pics1/6110.jpg,parent,#33B5FF
 2829,6159,"Onwin, Glen",1,Male,,parent,#33B5FF
 2830,6175,"Rice, Brian",4,Male,../pics1/6175.jpg,parent,#33B5FF
 2831,6211,"Camnitzer, Luis",2,Male,../pics1/6211.jpg,parent,#33B5FF
 2832,6217,"Basbaum, Ricardo",1,Male,../pics1/6217.jpg,parent,#33B5FF
 2833,6218,"Diaz Morales, Sebastian",1,Male,../pics1/6218.jpg,parent,#33B5FF
 2834,6237,"Rossell, Daniela",4,Female,,parent,#FF7133
-2835,6241,"Musgrave, David",4,Male,,parent,#33B5FF
+2835,6241,"Musgrave, David",4,Male,../pics1/6241.jpg,parent,#33B5FF
 2836,6245,"Coventry, Keith",4,Male,../pics1/6245.jpg,parent,#33B5FF
 2837,6253,"Höller, Carsten",1,Male,../pics1/6253.jpg,parent,#33B5FF
-2838,6254,"Hirschhorn, Thomas",2,Male,,parent,#33B5FF
+2838,6254,"Hirschhorn, Thomas",2,Male,../pics1/6254.jpg,parent,#33B5FF
 2839,6259,"Allora, Jennifer",2,Female,../pics1/6259.jpg,parent,#FF7133
 2840,6275,"Baynard, Ed",14,Male,,parent,#33B5FF
 2841,6294,"Newman, Hayley",1,Female,../pics1/6294.jpg,parent,#FF7133
 2842,6303,"Beckley, Bill",1,Male,,parent,#33B5FF
-2843,6307,"Majerus, Michel",4,Male,,parent,#33B5FF
+2843,6307,"Majerus, Michel",4,Male,../pics1/6307.jpg,parent,#33B5FF
 2844,6319,"Burden, Chris",4,Male,,parent,#33B5FF
 2845,6327,"di Suvero, Mark",1,Male,,parent,#33B5FF
 2846,6341,"Heizer, Michael",3,Male,,parent,#33B5FF
 2847,6343,"Held, Al",5,Male,../pics1/6343.jpg,parent,#33B5FF
-2848,6359,"La Noue, Terence",8,Male,,parent,#33B5FF
+2848,6359,"La Noue, Terence",8,Male,../pics1/6359.jpg,parent,#33B5FF
 2849,6376,"Simmons, Laurie",3,Female,,parent,#FF7133
 2850,6411,"EXPORT, VALIE",4,Female,../pics1/6411.jpg,parent,#FF7133
 2851,6432,"Rothschild, Judith",1,Female,../pics1/6432.jpg,parent,#FF7133
-2852,6461,"Mitchell, Joan",23,Female,,parent,#FF7133
-2853,6500,"Bjørlo, Per Inge",34,Male,,parent,#33B5FF
+2852,6461,"Mitchell, Joan",23,Female,../pics1/6461.jpg,parent,#FF7133
+2853,6500,"Bjørlo, Per Inge",34,Male,../pics1/6500.jpg,parent,#33B5FF
 2854,6550,"Boxer, Stanley",25,Male,../pics1/6550.jpg,parent,#33B5FF
 2855,6589,"Kiaer, Ian",2,Male,../pics1/6589.jpg,parent,#33B5FF
 2856,6591,"Martin, Daria",3,Female,../pics1/6591.jpg,parent,#FF7133
@@ -2860,15 +2860,15 @@
 2858,6628,"Sone, Yutaka",1,Male,,parent,#33B5FF
 2859,6630,"Atay, Fikret",2,Male,../pics1/6630.jpg,parent,#33B5FF
 2860,6633,"Meireles, Cildo",29,Male,../pics1/6633.jpg,parent,#33B5FF
-2861,6664,"Newman, John",19,Male,,parent,#33B5FF
+2861,6664,"Newman, John",19,Male,../pics1/6664.jpg,parent,#33B5FF
 2862,6667,"O'Donnell, Hugh",1,Male,../pics1/6667.jpg,parent,#33B5FF
 2863,6668,"Posey, Sam",3,Male,../pics1/6668.jpg,parent,#33B5FF
-2864,6670,"Shields, Alan",4,Male,,parent,#33B5FF
+2864,6670,"Shields, Alan",4,Male,../pics1/6670.jpg,parent,#33B5FF
 2865,6672,"Solien, T.L.",2,Male,../pics1/6672.jpg,parent,#33B5FF
 2866,6673,"Sorman, Steven",60,Male,,parent,#33B5FF
 2867,6711,"Kippenberger, Martin",109,Male,,parent,#33B5FF
-2868,6726,"Sultan, Donald",9,Male,,parent,#33B5FF
-2869,6727,"Sultan, Altoon",4,Male,,parent,#33B5FF
+2868,6726,"Sultan, Donald",9,Male,../pics1/6726.jpg,parent,#33B5FF
+2869,6727,"Sultan, Altoon",4,Male,../pics1/6727.jpg,parent,#33B5FF
 2870,6728,"Teraoka, Masami",4,Male,../pics1/6728.jpg,parent,#33B5FF
 2871,6729,"Tworkov, Jack",1,Male,,parent,#33B5FF
 2872,6730,"Zakanitch, Robert Rahway",1,Male,../pics1/6730.jpg,parent,#33B5FF
@@ -2879,19 +2879,19 @@
 2877,6856,"Vidokle, Anton",1,Male,,parent,#33B5FF
 2878,6858,Guerrilla Girls,30,Female,../pics1/6858.jpg,parent,#FF7133
 2879,6860,"Dzama, Marcel",12,Male,../pics1/6860.jpg,parent,#33B5FF
-2880,6872,"Meyer, Klaus",15,Male,,parent,#33B5FF
+2880,6872,"Meyer, Klaus",15,Male,../pics1/6872.jpg,parent,#33B5FF
 2881,6876,"Garaicoa, Carlos",2,Male,../pics1/6876.jpg,parent,#33B5FF
-2882,6877,"Leckey, Mark",5,Male,,parent,#33B5FF
+2882,6877,"Leckey, Mark",5,Male,../pics1/6877.jpg,parent,#33B5FF
 2883,6878,"Sierra, Santiago",1,Male,../pics1/6878.jpg,parent,#33B5FF
 2884,6880,"Jankowski, Christian",1,Male,,parent,#33B5FF
 2885,6882,"Bartana, Yael",1,Female,,parent,#FF7133
 2886,6992,"Bustamante, Jean-Marc",2,Male,../pics1/6992.jpg,parent,#33B5FF
-2887,7026,"McCullin, Don",46,Male,,parent,#33B5FF
+2887,7026,"McCullin, Don",46,Male,../pics1/7026.jpg,parent,#33B5FF
 2888,7049,"Harrison, Paul",1,Male,,parent,#33B5FF
-2889,7052,"Starling, Simon",4,Male,,parent,#33B5FF
+2889,7052,"Starling, Simon",4,Male,../pics1/7052.jpg,parent,#33B5FF
 2890,7077,"Pardo, Jorge",1,Male,../pics1/7077.jpg,parent,#33B5FF
-2891,7079,"Carter, Nathan",2,Male,,parent,#33B5FF
-2892,7120,"Payne, Oliver",3,Male,,parent,#33B5FF
+2891,7079,"Carter, Nathan",2,Male,../pics1/7079.jpg,parent,#33B5FF
+2892,7120,"Payne, Oliver",3,Male,../pics1/7120.jpg,parent,#33B5FF
 2893,7134,"Haworth, Jann",2,Female,,parent,#FF7133
 2894,7196,"Metzger, Gustav",6,Male,../pics1/7196.jpg,parent,#33B5FF
 2895,7213,"Medalla, David",1,Male,,parent,#33B5FF
@@ -2912,7 +2912,7 @@
 2910,7370,"Yang, Fudong",1,Male,,parent,#33B5FF
 2911,7376,"Tan, Fiona",1,Female,../pics1/7376.jpg,parent,#FF7133
 2912,7462,"Currie, Ken",1,Male,../pics1/7462.jpg,parent,#33B5FF
-2913,7467,"Li, Yuan-chia",16,Male,,parent,#33B5FF
+2913,7467,"Li, Yuan-chia",16,Male,../pics1/7467.jpg,parent,#33B5FF
 2914,7491,"McCall, Anthony",2,Male,../pics1/7491.jpg,parent,#33B5FF
 2915,7504,"Ivekovic, Sanja",6,Female,,parent,#FF7133
 2916,7507,"Maciá, Oswaldo",1,Male,,parent,#33B5FF
@@ -2921,7 +2921,7 @@
 2919,7553,"Sasnal, Wilhelm",2,Male,../pics1/7553.jpg,parent,#33B5FF
 2920,7604,"Wermers, Nicole",1,Female,,parent,#FF7133
 2921,7615,"Carrington, Leonora",2,Female,../pics1/7615.jpg,parent,#FF7133
-2922,7620,"Althamer, Pawel",5,Male,,parent,#33B5FF
+2922,7620,"Althamer, Pawel",5,Male,../pics1/7620.jpg,parent,#33B5FF
 2923,7622,"Ondák, Roman",1,Male,../pics1/7622.jpg,parent,#33B5FF
 2924,7629,"Nitsche, Frank",1,Male,../pics1/7629.jpg,parent,#33B5FF
 2925,7630,"Boyce, Martin",4,Male,../pics1/7630.jpg,parent,#33B5FF
@@ -2947,15 +2947,15 @@
 2945,8089,"Drtikol, František",1,Male,,parent,#33B5FF
 2946,8094,"Kusama, Yayoi",1,Female,../pics1/8094.jpg,parent,#FF7133
 2947,8140,"Lawler, Louise",3,Female,../pics1/8140.jpg,parent,#FF7133
-2948,8143,"Donnelly, Trisha",2,Female,,parent,#FF7133
+2948,8143,"Donnelly, Trisha",2,Female,../pics1/8143.jpg,parent,#FF7133
 2949,8144,"Guo-Qiang, Cai",1,Male,../pics1/8144.jpg,parent,#33B5FF
 2950,8175,"Grassie, Andrew",3,Male,../pics1/8175.jpg,parent,#33B5FF
 2951,8208,"Ai, Weiwei",2,Male,../pics1/8208.jpg,parent,#33B5FF
 2952,8244,"Oehlen, Albert",1,Male,../pics1/8244.jpg,parent,#33B5FF
-2953,8296,"Monk, Jonathan",2,Male,,parent,#33B5FF
+2953,8296,"Monk, Jonathan",2,Male,../pics1/8296.jpg,parent,#33B5FF
 2954,8297,"Young, Carey",10,Female,../pics1/8297.jpg,parent,#FF7133
 2955,8300,"Sehgal, Tino",1,Male,,parent,#33B5FF
-2956,8314,"David, Enrico",3,Male,,parent,#33B5FF
+2956,8314,"David, Enrico",3,Male,../pics1/8314.jpg,parent,#33B5FF
 2957,8373,"Grippo, Victor",2,Male,../pics1/8373.jpg,parent,#33B5FF
 2958,8376,"Rennó, Rosângela",3,Female,,parent,#FF7133
 2959,8378,"Jaar, Alfredo",1,Male,../pics1/8378.jpg,parent,#33B5FF
@@ -2982,20 +2982,20 @@
 2980,8875,"Uslé, Juan",1,Male,../pics1/8875.jpg,parent,#33B5FF
 2981,8897,"Martin, Simon",2,Male,../pics1/8897.jpg,parent,#33B5FF
 2982,8961,"Andrade Tudela, Armando",2,Male,../pics1/8961.jpg,parent,#33B5FF
-2983,9058,"Bulloch, Angela",2,Female,,parent,#FF7133
+2983,9058,"Bulloch, Angela",2,Female,../pics1/9058.jpg,parent,#FF7133
 2984,9059,"Michael, Alan",1,Male,../pics1/9059.jpg,parent,#33B5FF
 2985,9061,"Fowler, Luke",1,Male,,parent,#33B5FF
-2986,9074,"Hine, Lewis",22,Male,,parent,#33B5FF
+2986,9074,"Hine, Lewis",22,Male,../pics1/9074.jpg,parent,#33B5FF
 2987,9075,"Lange, Dorothea",1,Female,,parent,#FF7133
 2988,9087,"Wissing, Willem",1,Male,../pics1/9087.jpg,parent,#33B5FF
 2989,9098,"Bryce, Fernando",1,Male,../pics1/9098.jpg,parent,#33B5FF
 2990,9099,"Muñoz, Óscar",1,Male,,parent,#33B5FF
 2991,9101,"Herrera, Carmen",1,Female,,parent,#FF7133
-2992,9102,"Gander, Ryan",2,Male,,parent,#33B5FF
+2992,9102,"Gander, Ryan",2,Male,../pics1/9102.jpg,parent,#33B5FF
 2993,9107,"Parreno, Philippe",1,Male,../pics1/9107.jpg,parent,#33B5FF
 2994,9119,"Cardoso, Maria",1,Female,,parent,#FF7133
 2995,9134,"Warren, Rebecca",3,Female,../pics1/9134.jpg,parent,#FF7133
-2996,9242,"Bradford, Mark",2,Male,,parent,#33B5FF
+2996,9242,"Bradford, Mark",2,Male,../pics1/9242.jpg,parent,#33B5FF
 2997,9243,"Cadere, André",1,Male,,parent,#33B5FF
 2998,9260,Black Audio Film Collective (John Akomfrah; Reece Auguis; Edward George; Lina Gopaul; Avril Johnson; David Lawson; Trevo,3,,,parent,#33B5FF
 2999,9357,"Cook, Richard",2,Male,../pics1/9357.jpg,parent,#33B5FF
@@ -3003,7 +3003,7 @@
 3001,9439,"Fraser, Andrea",4,Female,../pics1/9439.jpg,parent,#FF7133
 3002,9550,"Abts, Tomma",6,Female,../pics1/9550.jpg,parent,#FF7133
 3003,9553,"Gallagher, Ellen",6,Female,../pics1/9553.jpg,parent,#FF7133
-3004,9555,"Mackie, Christina",3,Female,,parent,#FF7133
+3004,9555,"Mackie, Christina",3,Female,../pics1/9555.jpg,parent,#FF7133
 3005,9560,"Pernice, Manfred",3,Male,,parent,#33B5FF
 3006,9570,"Brandenburg, Ulla von",1,Female,../pics1/9570.jpg,parent,#FF7133
 3007,9571,"Mréjen, Valérie",1,Female,,parent,#FF7133
@@ -3036,7 +3036,7 @@
 3034,10126,"Ziegler, Toby",2,Male,../pics1/10126.jpg,parent,#33B5FF
 3035,10157,"Serralongue, Bruno",1,Male,../pics1/10157.jpg,parent,#33B5FF
 3036,10158,"Williams, Christopher",3,Male,,parent,#33B5FF
-3037,10168,"Barriball, Anna",4,Female,,parent,#FF7133
+3037,10168,"Barriball, Anna",4,Female,../pics1/10168.jpg,parent,#FF7133
 3038,10169,"Kuri, Gabriel",1,Male,,parent,#33B5FF
 3039,10170,"Neuenschwander, Rivane",1,Female,../pics1/10170.jpg,parent,#FF7133
 3040,10184,"Kennard, Peter",15,Male,../pics1/10184.jpg,parent,#33B5FF
@@ -3075,7 +3075,7 @@
 3073,10761,"Hatakeyama, Naoya",10,Male,,parent,#33B5FF
 3074,10764,"Avery, Charles",1,Male,,parent,#33B5FF
 3075,10804,"Jensen, Sergej",2,Male,../pics1/10804.jpg,parent,#33B5FF
-3076,10836,"Tillim, Guy",13,Male,,parent,#33B5FF
+3076,10836,"Tillim, Guy",13,Male,../pics1/10836.jpg,parent,#33B5FF
 3077,10844,Linder,7,Female,../pics1/10844.jpg,parent,#FF7133
 3078,10908,"Barlow, Phyllida",17,Female,../pics1/10908.jpg,parent,#FF7133
 3079,10956,"Wilson, Richard",9,Male,../pics1/10956.jpg,parent,#33B5FF
@@ -3086,7 +3086,7 @@
 3084,11040,"Posenenske, Charlotte",7,Female,../pics1/11040.jpg,parent,#FF7133
 3085,11137,"Sarmento, Julião",3,Male,../pics1/11137.jpg,parent,#33B5FF
 3086,11145,Marepe,1,Male,../pics1/11145.jpg,parent,#33B5FF
-3087,11167,"Mendieta, Ana",5,Female,,parent,#FF7133
+3087,11167,"Mendieta, Ana",5,Female,../pics1/11167.jpg,parent,#FF7133
 3088,11244,"Partum, Ewa",2,Female,../pics1/11244.jpg,parent,#FF7133
 3089,11249,"Model, Lisette",12,Female,,parent,#FF7133
 3090,11259,Brassai,3,Male,,parent,#33B5FF
@@ -3115,11 +3115,11 @@
 3113,11598,"Zaatari, Akram",119,Male,../pics1/11598.jpg,parent,#33B5FF
 3114,11696,"Buckingham, Matthew",1,Male,,parent,#33B5FF
 3115,11698,"Gomes, Fernanda",2,Female,,parent,#FF7133
-3116,11761,"Bronstein, Pablo",2,Male,,parent,#33B5FF
+3116,11761,"Bronstein, Pablo",2,Male,../pics1/11761.jpg,parent,#33B5FF
 3117,11777,"Pumhösl, Florian",1,Male,,parent,#33B5FF
 3118,11779,"Pillsbury, Matthew",1,Male,../pics1/11779.jpg,parent,#33B5FF
 3119,11829,"Atkinson, Terry",1,Male,,parent,#33B5FF
-3120,11852,Gego (Gertrud Goldschmidt),2,Female,,parent,#FF7133
+3120,11852,Gego (Gertrud Goldschmidt),2,Female,../pics1/11852.jpg,parent,#FF7133
 3121,11853,"Sonnier, Keith",1,Male,,parent,#33B5FF
 3122,11893,"Vonna-Michell, Tris",1,Male,,parent,#33B5FF
 3123,11937,"Gonzalez-Torres, Felix",2,Male,,parent,#33B5FF
@@ -3136,7 +3136,7 @@
 3134,11960,"Turnbull, Alison",1,Female,../pics1/11960.jpg,parent,#FF7133
 3135,11963,"Phaophanit, Vong",2,Male,../pics1/11963.jpg,parent,#33B5FF
 3136,11979,"Restiffe, Mauro",11,Male,../pics1/11979.jpg,parent,#33B5FF
-3137,11982,"Bruguera, Tania",2,Female,,parent,#FF7133
+3137,11982,"Bruguera, Tania",2,Female,../pics1/11982.jpg,parent,#FF7133
 3138,11983,"Swain, Tony",1,Male,../pics1/11983.jpg,parent,#33B5FF
 3139,11984,"Téllez, Javier",1,Male,,parent,#33B5FF
 3140,12007,"Panting, John",4,Male,,parent,#33B5FF
@@ -3166,15 +3166,15 @@
 3164,12153,"Allen, Phillip",1,Male,../pics1/12153.jpg,parent,#33B5FF
 3165,12171,"Gupta, Subodh",1,Male,,parent,#33B5FF
 3166,12186,"Vlahos, Vangelis",1,Male,../pics1/12186.jpg,parent,#33B5FF
-3167,12243,"Smith, John",2,Male,,parent,#33B5FF
+3167,12243,"Smith, John",2,Male,../pics1/12243.jpg,parent,#33B5FF
 3168,12393,"Campbell, Duncan",1,Male,../pics1/12393.jpg,parent,#33B5FF
 3169,12441,"Osborn, Emily",1,Female,../pics1/12441.jpg,parent,#FF7133
-3170,12475,"Anselmo, Giovanni",2,Male,,parent,#33B5FF
+3170,12475,"Anselmo, Giovanni",2,Male,../pics1/12475.jpg,parent,#33B5FF
 3171,12478,Swoon,1,Female,,parent,#FF7133
 3172,12497,"Hlobo, Nicholas",4,Male,../pics1/12497.jpg,parent,#33B5FF
 3173,12520,"Allen, Richard",1,Male,,parent,#33B5FF
 3174,12525,"Merz, Marisa",4,Female,../pics1/12525.jpg,parent,#FF7133
-3175,12542,"Zorio, Gilberto",2,Male,,parent,#33B5FF
+3175,12542,"Zorio, Gilberto",2,Male,../pics1/12542.jpg,parent,#33B5FF
 3176,12577,"Simpson, Lorna",2,Female,../pics1/12577.jpg,parent,#FF7133
 3177,12580,"Savage, Jon",1,Male,../pics1/12580.jpg,parent,#33B5FF
 3178,12583,"Anderson, Hurvin",1,Male,../pics1/12583.jpg,parent,#33B5FF
@@ -3186,7 +3186,7 @@
 3184,12638,"Leirner, Nelson",1,Male,,parent,#33B5FF
 3185,12686,"Barham, Anna",1,Female,,parent,#FF7133
 3186,12796,"Suga, Kishio",1,Male,,parent,#33B5FF
-3187,12799,"Suh, Do Ho",2,Male,,parent,#33B5FF
+3187,12799,"Suh, Do Ho",2,Male,../pics1/12799.jpg,parent,#33B5FF
 3188,12834,"Kawara, On",1,Male,,parent,#33B5FF
 3189,12898,"Rideal, Liz",1,Female,../pics1/12898.jpg,parent,#FF7133
 3190,12913,"Green, Jesse",1,Male,,parent,#33B5FF
@@ -3197,7 +3197,7 @@
 3195,13004,"Moholy, Lucia",2,Female,,parent,#FF7133
 3196,13048,"Bo, Hou",1,Female,,parent,#FF7133
 3197,13100,"Zmijewski, Artur",1,Male,,parent,#33B5FF
-3198,13108,"Hershman, Lynn",5,Female,,parent,#FF7133
+3198,13108,"Hershman, Lynn",5,Female,../pics1/13108.jpg,parent,#FF7133
 3199,13142,"Cruzvillegas, Abraham",18,Male,../pics1/13142.jpg,parent,#33B5FF
 3200,13195,"Booth, L",1,,,parent,#33B5FF
 3201,13197,"Colvin, Calum",8,Male,,parent,#33B5FF
@@ -3228,9 +3228,9 @@
 3226,13716,"Libera, Zbigniew",1,Male,,parent,#33B5FF
 3227,13751,"Unwin, Phoebe",1,Female,../pics1/13751.jpg,parent,#FF7133
 3228,13759,"Pak, Sheung Chuen",1,Male,,parent,#33B5FF
-3229,13793,"Caniaris, Vlassis",2,Male,,parent,#33B5FF
+3229,13793,"Caniaris, Vlassis",2,Male,../pics1/13793.jpg,parent,#33B5FF
 3230,13824,"Turner, Bruce",1,Male,,parent,#33B5FF
-3231,13897,"Joreige, Lamia",4,Female,,parent,#FF7133
+3231,13897,"Joreige, Lamia",4,Female,../pics1/13897.jpg,parent,#FF7133
 3232,13899,"Gussin, Graham",2,Male,,parent,#33B5FF
 3233,13957,"Grubic, Igor",1,Male,,parent,#33B5FF
 3234,14097,"Shemza, Anwar Jalal",4,Male,../pics1/14097.jpg,parent,#33B5FF
@@ -3252,7 +3252,7 @@
 3250,14475,"Eneroth, Joakim",8,Male,,parent,#33B5FF
 3251,14489,"Siskind, Aaron",3,Male,,parent,#33B5FF
 3252,14505,"Cabrita Reis, Pedro",4,Male,../pics1/14505.jpg,parent,#33B5FF
-3253,14527,"Heinzmann, Thilo",2,Male,,parent,#33B5FF
+3253,14527,"Heinzmann, Thilo",2,Male,../pics1/14527.jpg,parent,#33B5FF
 3254,14581,"Cytter, Keren",1,Female,,parent,#FF7133
 3255,14609,Marwan (Marwan Kassab Bachi),1,Male,,parent,#33B5FF
 3256,14637,"Buchler, Pavel",2,Male,,parent,#33B5FF
@@ -3272,13 +3272,13 @@
 3270,15101,"Komatsu, André",1,Male,../pics1/15101.jpg,parent,#33B5FF
 3271,15125,"Martin, Anne",1,Female,../pics1/15125.jpg,parent,#FF7133
 3272,15133,"T R Uthco (Doug Hall born 1944, Diane Andrews Hall born 1945, Jody Procter 1944-1998)",1,,,parent,#33B5FF
-3273,15351,"Chernysheva, Olga",2,Female,,parent,#FF7133
+3273,15351,"Chernysheva, Olga",2,Female,../pics1/15351.jpg,parent,#FF7133
 3274,15353,"Molodkin, Andrei",6,Male,,parent,#33B5FF
 3275,15409,"Linke, Simon",1,Male,../pics1/15409.jpg,parent,#33B5FF
-3276,15501,"Takamatsu, Jiro",45,Male,,parent,#33B5FF
+3276,15501,"Takamatsu, Jiro",45,Male,../pics1/15501.jpg,parent,#33B5FF
 3277,15525,"Holyhead, Robert",2,Male,../pics1/15525.jpg,parent,#33B5FF
 3278,15539,"Young-Hae Chang Heavy Industries (Young-Hae Chang, Marc Voge)",3,,,parent,#33B5FF
-3279,15549,"Cluett, Shelagh",8,Female,,parent,#FF7133
+3279,15549,"Cluett, Shelagh",8,Female,../pics1/15549.jpg,parent,#FF7133
 3280,15557,"Atlas, Charles",1,Male,,parent,#33B5FF
 3281,15587,"Andrade, Jonathas de",1,Male,,parent,#33B5FF
 3282,15589,"Stern, Grete",1,Female,,parent,#FF7133
@@ -3290,10 +3290,10 @@
 3288,15855,"Wilson, Fred",29,Male,,parent,#33B5FF
 3289,15930,"Karamustafa, Gulsun",1,Female,,parent,#FF7133
 3290,15931,"Yalter, Nil",1,Female,,parent,#FF7133
-3291,15957,"Tanavoli, Parviz",16,Male,,parent,#33B5FF
+3291,15957,"Tanavoli, Parviz",16,Male,../pics1/15957.jpg,parent,#33B5FF
 3292,15958,"Haerizadeh, Rokni",5,Male,,parent,#33B5FF
 3293,15975,"Hirata, Minoru",30,Male,,parent,#33B5FF
-3294,15999,"Biermann, Aenne",4,Female,,parent,#FF7133
+3294,15999,"Biermann, Aenne",4,Female,../pics1/15999.jpg,parent,#FF7133
 3295,16015,"Caro, Antonio",1,Male,,parent,#33B5FF
 3296,16018,"Ojeikere, J.D. Okhai",8,Male,,parent,#33B5FF
 3297,16030,"Yamaguchi, Katsuhiro",10,Male,,parent,#33B5FF
@@ -3314,13 +3314,13 @@
 3312,16385,"Raven, Lucy",1,Female,,parent,#FF7133
 3313,16467,"Shahroudy Farmanfarmaian, Monir",1,Female,../pics1/16467.jpg,parent,#FF7133
 3314,16495,"Keen, Jeff",4,Male,,parent,#33B5FF
-3315,16646,"P-Orridge, Genesis",4,Male,,parent,#33B5FF
+3315,16646,"P-Orridge, Genesis",4,Male,../pics1/16646.jpg,parent,#33B5FF
 3316,16658,"Earnshaw, Anthony",1,Male,,parent,#33B5FF
 3317,16660,"Johnson, Ray",1,Male,,parent,#33B5FF
 3318,16778,"Lee, Seung-Taek",1,Male,,parent,#33B5FF
 3319,16782,"Birdhead (Ji Weiyu, born 1980; Song Tao, born 1979)",2,Male,,parent,#33B5FF
 3320,16784,"Yiadom-Boakye, Lynette",2,Female,../pics1/16784.jpg,parent,#FF7133
-3321,16792,"Toren, Amikam",5,Male,,parent,#33B5FF
+3321,16792,"Toren, Amikam",5,Male,../pics1/16792.jpg,parent,#33B5FF
 3322,16798,"Sterne, Hedda",1,Female,,parent,#FF7133
 3323,16838,Art & Language (Michael Baldwin),1,Male,../pics1/16838.jpg,parent,#33B5FF
 3324,16982,"Sillman, Amy",1,Female,,parent,#FF7133
