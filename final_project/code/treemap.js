@@ -4,24 +4,15 @@ const tooltip = d3.select("body")
     .style("position", "absolute")
     .style("visibility", "hidden");
 
-// set the dimensions and margins of the graph
 let height = 600,
     width = 900;
-// append the svg object to the body of the page
-// var svg = d3.select("#treemap")
-//     .append("svg")
-//     .attr("width", width + margin.left + margin.right)
-//     .attr("height", height + margin.top + margin.bottom)
-//     .append("g")
-//     .attr("transform",
-//             "translate(" + margin.left + "," + margin.top + ")");
 
 // Read data
 d3.csv('../cleaned_data/aa_counts_url.csv').then(data => {
     console.log(data)
 
     const data1 = {
-        children: data.map(item => ({name: item.name, value: +item.artwork_count, img: item.img}))};
+        children: data.map(item => ({name: item.name, value: +item.artwork_count, img: item.img, color: item.color}))};
 
     console.log(data1)
 
@@ -53,76 +44,61 @@ d3.csv('../cleaned_data/aa_counts_url.csv').then(data => {
           });
     
         const gNode = group
-          .selectAll("g")
-          .data(node.children)
-          .join("g");
-    
+            .selectAll("g")
+            .data(node.children)
+            .join("g");
+        
         gNode.filter(d => d.children)
-          .attr("cursor", "pointer")
-          .on("click", (event, d) => zoomIn(d));
+            .attr("cursor", "pointer")
+            .on("click", (event, d) => zoomIn(d));
     
         gNode.append("rect")
-          .attr("fill", d => d.data.color)
-          .attr("fill-opacity", d => d.data.opacity)
-          .attr("stroke", "#fff");
+            // .attr("fill", d => d.data.color)
+            .attr('fill', "#fff")
+            // .attr("fill-opacity", d => d.data.opacity)
+            .attr("stroke", "black");
     
-        gNode.append("text")
-          .append("tspan")
-          .attr("x", 3)
-          .attr("y", "1.1em")
-          .text(d => d.data.name)
-          .append("tspan")
-          .attr("x", 3)
-          .attr("y", "2.3em")
-          .text(d => format(d.value));
-    
+        // gNode.append("text")
+        //     .append("tspan")
+        //     .attr("x", 3)
+        //     .attr("y", "1.1em")
+        //     .text(d => d.data.name)
+        //     .append("tspan")
+        //     .attr("x", 3)
+        //     .attr("y", "2.3em")
+        //     .text(d => format(d.value));
+
+        gNode.append("image")
+            .attr("width", d => x(d.x1 - d.x0))
+            .attr("height", d => y(d.y1 - d.y0))
+            .attr("xlink:href", d => d.data.img);
+
         group.call(position);
       }
     
       function position(group) {
         group.selectAll("g")
-          .attr("transform", d => `translate(${x(d.x0)},${y(d.y0)})`)
-          .select("rect")
-          .attr("width", d => x(d.x1) - x(d.x0))
-          .attr("height", d => y(d.y1) - y(d.y0));
+            .attr("transform", d => `translate(${x(d.x0)},${y(d.y0)})`)
+            .select("rect")
+            .attr("width", d => x(d.x1) - x(d.x0))
+            .attr("height", d => y(d.y1) - y(d.y0));
       }
     
-      function zoomIn(d) {
-        const group0 = group.attr("pointer-events", "none");
-        const group1 = group = svg.append("g").call(render, d);
-    
-        x.domain([d.x0, d.x1]);
-        y.domain([d.y0, d.y1]);
-    
-        svg.transition()
-          .duration(750)
-          .call(t => group0.attr("opacity", 1)
-            .transition(t)
-            .attr("opacity", 0.1)
-            .remove()
-            .call(position, d.parent))
-          .call(t => group1.attr("opacity", 0)
-            .transition(t)
-            .attr("opacity", 1)
-            .call(position, d));
-      }
-    
-      function zoomOut(d) {
-        const group0 = group.attr("pointer-events", "none");
-        const group1 = group = svg.insert("g", "*").call(render, d.parent);
-    
-        x.domain([d.parent.x0, d.parent.x1]);
-        y.domain([d.parent.y0, d.parent.y1]);
-    
-        svg.transition()
-          .duration(750)
-          .call(t => group0.attr("opacity", 1)
-            .transition(t).remove()
-            .attr("opacity", 0)
-            .call(position, d))
-          .call(t => group1.attr("opacity", 0.1)
-            .transition(t)
-            .attr("opacity", 1)
-            .call(position, d.parent));
-      }
+      d3.selectAll("image") // select all images on page and wait til mouseover, then add text info
+        .on("mouseover", function(event, d) {
+            d3.select(this).attr("fill", "steelblue");
+            tooltip
+            .style("visibility", "visible")
+            .html(`Artist: ${d.data.name}<br />Number of works: ${d.data.value}`);
+      })
+        .on("mousemove", function(event) { // for hover-over
+            tooltip
+            .style("top", (event.pageY - 10) + "px")
+            .style("left", (event.pageX + 10) + "px");
+      })
+        .on("mouseout", function() { // turn mouseover back to original after mouse leaves point
+            d3.select(this).attr("fill", '#fff');
+            tooltip.style("visibility", "hidden");
+      })
+      
     });

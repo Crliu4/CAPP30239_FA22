@@ -5,9 +5,10 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,700" rel="stylesheet">
+  <title>CAPP 30239 Data Visualization for Public Policy Final Project</title>
+  <link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,600" rel="stylesheet">
   <style>
-    * {
+     * {
       font-family: 'Work Sans',Arial, Helvetica, sans-serif;
     }
 
@@ -22,60 +23,63 @@
       font-weight: 600;
     }
 
-    p {
+    p, select, label {
       font-size: 16px;
       text-transform: none;
       max-width: 700px;
     }
 
-    #chart, #chart p, #chart span {
-      width: 100%;
+    input {
+      min-width: 300px;
+    }
+
+    span {
+      text-transform: uppercase;
+      font-size: 14px;
+    }
+
+    label, tspan {
+      vertical-align: super;
       font-size: 10px;
     }
 
-    svg {
-      max-height: 100vh;
+    #chart {
+      width: 100%;
     }
 
-    .svg-tooltip {
-      background: rgba(69, 77, 93, .9);
-      border-radius: 5px;
-      color: #fff;
-      display: block;
-      font-size: 12px;
-      line-height: 16px;
-      text-transform: none;
-      max-width: 320px;
-      padding: 1rem;
-      position: absolute;
-      text-overflow: ellipsis;
-      white-space: pre;
-      z-index: 300;
-      visibility: hidden;
+    svg {
+      height: 70vh;
     }
+
+    #breadcrumbs {
+      cursor: pointer;
+      margin-bottom: 8px;
+      color: #369;
+      text-decoration: underline;
+      font-weight: 500;
+    }
+
   </style>
 </head>
 
 <body>
-  <div id="container">
-    <h1>Title</h1>
-    <p>
-        Crime density per 1,000 residents for partial year 2022. 
-        Crime data sourced from 
-        <a href="https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/data">
-        Chicago Data Portal</a>.
-        Map built using <a href="https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Community-Areas-current-/cauq-8yn6">
-        Chicago Data GeoJSON</a> with <a href="https://mapshaper.org/">
-        mapshaper.</a>
-        Population counts from latest census number as posted
-        on <a href="https://en.wikipedia.org/wiki/Community_areas_in_Chicago">
-          Wikipedia</a>.
-    </p>
-    <div id="treemap"></div>
-  </div>
-</body>
-<script src="https://d3js.org/d3.v7.min.js"></script>
-<script src="d3-color-legend.js"></script>
-<script src="treemap.js"></script>
+        <div id="container">
+            <h1>The Tate Collection</h1>
+            <h4><em>Carolyn Liu</em></h4>
 
+                        
+            <h3>Acquisitions by year</h3>
+            <p>Some description</p>
+            <div id="line"></div>
+
+            <h3>Number of pieces in collection by artist</h3>
+            <p>Some description</p>
+            <div id="treemap"></div>
+
+        </div>
+      </body>
+      <script src="https://d3js.org/d3.v7.min.js"></script>
+      <script src="line.js"></script>
+      <script src="treemap.js"></script>
 </html>
+
