@@ -5,7 +5,7 @@ const tooltip = d3.select("body")
     .style("visibility", "hidden");
 
 let height = 600,
-    width = 900;
+    width1 = 900;
 
 // Read data
 d3.csv('../cleaned_data/aa_counts_url.csv').then(data => {
@@ -23,14 +23,14 @@ d3.csv('../cleaned_data/aa_counts_url.csv').then(data => {
 
     console.log(treemap)
 
-    const x = d3.scaleLinear().rangeRound([0, width]);
+    const x = d3.scaleLinear().rangeRound([0, width1]);
     const y = d3.scaleLinear().rangeRound([0, height]);
   
     const format = d3.format(",d");
   
     const svg = d3.select("#treemap")
       .append("svg")
-      .attr("viewBox", [0, 0, width, height]);
+      .attr("viewBox", [0, 0, width1, height]);
   
     let group = svg.append("g")
       .call(render, treemap(data1));
@@ -79,9 +79,11 @@ d3.csv('../cleaned_data/aa_counts_url.csv').then(data => {
       function position(group) {
         group.selectAll("g")
             .attr("transform", d => `translate(${x(d.x0)},${y(d.y0)})`)
-            .select("rect")
+            // .select("rect")
+            .select("image")
             .attr("width", d => x(d.x1) - x(d.x0))
             .attr("height", d => y(d.y1) - y(d.y0));
+            
       }
     
       d3.selectAll("image") // select all images on page and wait til mouseover, then add text info
