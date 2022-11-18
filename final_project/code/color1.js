@@ -23,7 +23,7 @@
         
         svg.append("g")
             .attr("transform", `translate(0,${height - margin.bottom})`)
-            .call(d3.axisBottom(x).tickSizeOuter(0).tickFormat(d3.timeFormat("%Y")))// draw tick in 'negative' way - draw all the way across
+            .call(d3.axisBottom(x).tickValues(x.domain().filter(function(d,i){ return !(i%25)})).tickSizeOuter(0).tickFormat(d3.timeFormat("%Y")))// draw tick in 'negative' way - draw all the way across
     
         svg.append("g") // append 'g' html element, fill w/ black
             .selectAll("g")

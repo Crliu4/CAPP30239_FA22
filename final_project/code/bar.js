@@ -1,5 +1,3 @@
-
-
 d3.csv('../cleaned_data/ac_med.csv').then( data => {
 
     const w = 800,
@@ -34,7 +32,7 @@ d3.csv('../cleaned_data/ac_med.csv').then( data => {
 
     svg.append("g")
         .attr("transform", `translate(0,${h - m.bottom})`)
-        .call(d3.axisBottom(x).tickSizeOuter(0).tickFormat(d3.timeFormat("%Y")))
+        .call(d3.axisBottom(x).tickValues(x.domain().filter(function(d,i){ return !(i%10)})).tickSizeOuter(0).tickFormat(d3.timeFormat("%Y")))
 
     svg.append("g")
         .attr("transform", `translate(${m.left},0)`)
@@ -82,11 +80,3 @@ d3.csv('../cleaned_data/ac_med.csv').then( data => {
             .attr("y",15)
             .text((d, i) => subgroups[i]);
 });
-    
-    // Manual legend
-    // svg.append("circle").attr("cx",10).attr("cy",10).attr("r", 6).style("fill", "#e41a1c")
-    // svg.append("circle").attr("cx",110).attr("cy",10).attr("r", 6).style("fill", "#377eb8")
-    // svg.append("circle").attr("cx",205).attr("cy",10).attr("r", 6).style("fill", "#4daf4a")
-    // svg.append("text").attr("x", 20).attr("y", 10).text("Other").style("font-size", "15px").attr("alignment-baseline","middle")
-    // svg.append("text").attr("x", 130).attr("y", 10).text("Female").style("font-size", "15px").attr("alignment-baseline","middle")
-    // svg.append("text").attr("x", 225).attr("y", 10).text("Male").style("font-size", "15px").attr("alignment-baseline","middle")
