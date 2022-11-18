@@ -1,5 +1,6 @@
 
-d3.csv('../cleaned_data/watercolors_hex_dropna.csv').then( data => {
+// d3.csv('../cleaned_data/watercolors_hex_dropna.csv').then( data => {
+d3.csv('../cleaned_data/watercolors_all.csv').then( data => {
     const width = 860,
     height = 500,
     margin = {top: 40, right: 30, bottom: 20, left: 20};
@@ -11,7 +12,8 @@ d3.csv('../cleaned_data/watercolors_hex_dropna.csv').then( data => {
 
     let timeParse = d3.timeParse("%Y");
     for (let d of data) {
-            d.value = +d.value
+            d.value_x = +d.value_x
+            d.value_y = +d.value_y
             d.year = timeParse(d.year); // create new var year
         };
     
@@ -24,19 +26,14 @@ d3.csv('../cleaned_data/watercolors_hex_dropna.csv').then( data => {
     svg.append("g")
         .attr("transform", `translate(0,${height - margin.bottom})`)
         .call(d3.axisBottom(x).tickSizeOuter(0).tickFormat(d3.timeFormat("%Y")))// draw tick in 'negative' way - draw all the way across
-    
-    // svg.append("g")
-    //     .attr("transform", `translate(${margin.left},0)`)
-    //     .attr("class", "y-axis")
-    //     .call(d3.axisLeft(y).tickSize(-width + margin.left + margin.right))
 
     svg.append("g") // append 'g' html element, fill w/ black
         .selectAll("g")
         .data(data)
         .join("circle") // join data onto each circle
         .attr("cx", d => x(d.year)) // cx, cy -> position circles & give data
-        .attr("cy", d => y(d.value))
+        .attr("cy", d => y(d.value_x))
         .style("fill", d => d.hex)
         .attr("r", 3) // radius of circles
-
+    
 });

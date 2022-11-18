@@ -2,7 +2,7 @@
 
 d3.csv('../cleaned_data/ac_med.csv').then( data => {
 
-    const w = 860,
+    const w = 800,
         h = 400,
         m = {top: 40, right: 30, bottom: 20, left: 20};
 
@@ -34,16 +34,16 @@ d3.csv('../cleaned_data/ac_med.csv').then( data => {
 
     svg.append("g")
         .attr("transform", `translate(0,${h - m.bottom})`)
-        .call(d3.axisBottom(x).ticks(d3.timeYear.every(100)).tickSizeOuter(0).tickFormat(d3.timeFormat("%Y")))
+        .call(d3.axisBottom(x).tickSizeOuter(0).tickFormat(d3.timeFormat("%Y")))
 
     svg.append("g")
         .attr("transform", `translate(${m.left},0)`)
         .call(d3.axisLeft(y).tickSize(-w + m.left + m.right))
 
     // medium subgroups
-    const subgroups = ['film', 'other', 'painting', 'paper', 'photo', 'sculpture', 'wood'];
+    const subgroups = ['paper', 'painting', 'wood', 'sculpture', 'photo', 'film', 'other'];
     console.log(subgroups)
-    const color = d3.scaleOrdinal(subgroups,['#e41a1c','#377eb8','#4daf4a', 'pink', 'purple', 'yellow', 'orange']); // another type of scale
+    const color = d3.scaleOrdinal(subgroups, d3.quantize(d3.interpolateHcl("rgb(152, 67, 98)", "#f4e153"), 7)); // another type of scale
 
     const stackedData = d3.stack() // formatting data
         .keys(subgroups)(data);
