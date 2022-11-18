@@ -1,8 +1,8 @@
 
 // d3.csv('../cleaned_data/watercolors_hex_dropna.csv').then( data => {
 d3.csv('../cleaned_data/watercolors_all.csv').then( data => {
-    const width = 860,
-    height = 500,
+    const width = 800,
+    height = 400,
     margin = {top: 40, right: 30, bottom: 20, left: 20};
 
     const svg = d3.select("#color")
