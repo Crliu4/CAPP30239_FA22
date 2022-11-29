@@ -60,7 +60,7 @@ d3.csv('../cleaned_data/aa_counts_url.csv').then(data => {
     
         gNode.append("rect")
             // .attr('fill', "#fff")
-            .attr("fill", "url(#img)")
+            // .attr("fill", "url(#img)")
             .attr("stroke", "black");
 
         // gNode.append("text")
@@ -78,8 +78,8 @@ d3.csv('../cleaned_data/aa_counts_url.csv').then(data => {
     
       function position(group) {
         group.selectAll("g")
-            .attr("width", d => x(d.x1) - x(d.x0))
-            .attr("height", d => y(d.y1) - y(d.y0))
+            // .attr("width", d => x(d.x1) - x(d.x0))
+            // .attr("height", d => y(d.y1) - y(d.y0))
             .attr("transform", d => `translate(${x(d.x0)},${y(d.y0)})`)
             .select("rect");
             // .select("image");
