@@ -5,7 +5,7 @@ const tooltip = d3.select("body")
     .style("visibility", "hidden");
 
 let height = 600,
-    width1 = 900;
+    width1 = 700;
 
 // Read data
 d3.csv('../cleaned_data/aa_counts_url.csv').then(data => {
@@ -51,13 +51,18 @@ d3.csv('../cleaned_data/aa_counts_url.csv').then(data => {
         gNode.filter(d => d.children)
             .attr("cursor", "pointer")
             .on("click", (event, d) => zoomIn(d));
+        
+        gNode.append("image")
+            .attr("id", "img")
+            .attr("width", d => x(d.x1 - d.x0))
+            .attr("height", d => y(d.y1 - d.y0))
+            .attr("href", d => d.data.img);
     
         gNode.append("rect")
-            // .attr("fill", d => d.data.color)
-            .attr('fill', "#fff")
-            // .attr("fill-opacity", d => d.data.opacity)
+            // .attr('fill', "#fff")
+            .attr("fill", "url(#img)")
             .attr("stroke", "black");
-    
+
         // gNode.append("text")
         //     .append("tspan")
         //     .attr("x", 3)
@@ -68,21 +73,16 @@ d3.csv('../cleaned_data/aa_counts_url.csv').then(data => {
         //     .attr("y", "2.3em")
         //     .text(d => format(d.value));
 
-        gNode.append("image")
-            .attr("width", d => x(d.x1 - d.x0))
-            .attr("height", d => y(d.y1 - d.y0))
-            .attr("xlink:href", d => d.data.img);
-
         group.call(position);
       }
     
       function position(group) {
         group.selectAll("g")
-            .attr("transform", d => `translate(${x(d.x0)},${y(d.y0)})`)
-            // .select("rect")
-            .select("image")
             .attr("width", d => x(d.x1) - x(d.x0))
-            .attr("height", d => y(d.y1) - y(d.y0));
+            .attr("height", d => y(d.y1) - y(d.y0))
+            .attr("transform", d => `translate(${x(d.x0)},${y(d.y0)})`)
+            .select("rect");
+            // .select("image");
             
       }
     

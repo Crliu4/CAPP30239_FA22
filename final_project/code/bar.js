@@ -2,7 +2,7 @@ d3.csv('../cleaned_data/ac_med.csv').then( data => {
 
     const w = 800,
         h = 400,
-        m = {top: 40, right: 30, bottom: 20, left: 20};
+        m = {top: 40, right: 30, bottom: 20, left: 35};
 
     const svg = d3.select("#bar")
         .append("svg")
@@ -28,7 +28,7 @@ d3.csv('../cleaned_data/ac_med.csv').then( data => {
     .padding([0.2]);
 
     // let y = d3.scaleLinear([0, d3.max(data, d => d.ac_count)],[h - m.bottom, m.top]);
-    let y = d3.scaleLinear([0, 2000],[h - m.bottom, m.top]).nice();
+    let y = d3.scaleLinear([0, 3000],[h - m.bottom, m.top]).nice();
 
     svg.append("g")
         .attr("transform", `translate(0,${h - m.bottom})`)
