@@ -4,8 +4,8 @@ const tooltip = d3.select("body")
     .style("position", "absolute")
     .style("visibility", "hidden");
 
-let height = 600,
-    width1 = 700;
+let height = 400,
+    width1 = 500;
 
 // Read data
 d3.csv('../cleaned_data/aa_counts_url.csv').then(data => {
@@ -56,6 +56,8 @@ d3.csv('../cleaned_data/aa_counts_url.csv').then(data => {
             .attr("id", "img")
             .attr("width", d => x(d.x1 - d.x0))
             .attr("height", d => y(d.y1 - d.y0))
+            // .attr("preserveAspectRatio", "xMaxYMid slice")
+            .attr("preserveAspectRatio", "xMidYMid slice")
             .attr("href", d => d.data.img);
     
         gNode.append("rect")
