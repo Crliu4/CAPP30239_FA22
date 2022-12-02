@@ -28,8 +28,6 @@ d3.csv('../cleaned_data/ac_med.csv').then( data => {
     let x = d3.scaleBand(data.map(d => (d.year)),[m.left, w - m.right])
     .padding([0.2]);
 
-    // let y = d3.scaleLinear([0, d3.max(data, d => d.ac_count)],[h - m.bottom, m.top]).nice();
-    // let y = d3.scaleLinear([0, 4000],[h - m.bottom, m.top]).nice();
     // add break in y-axis
     let y = d3.scaleLinear().domain([0, 4000, 38000, d3.max(data, function(d) {
         return d.ac_count})]).range([h - m.bottom, h/4 , m.top]).nice();
