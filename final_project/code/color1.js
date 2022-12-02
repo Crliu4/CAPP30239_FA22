@@ -1,4 +1,4 @@
-
+// colors for colorgram data -- most frequently occurring colors
     d3.csv('../cleaned_data/watercolors_cg_hex_dropna.csv').then( data => {
         const width = 600,
         height = 400,

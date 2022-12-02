@@ -1,4 +1,4 @@
-// import { scaleDiscontinuous, discontinuityRange } from 'd3fc-discontinuous-scale';
+// stacked bar: acquisitions over time by medium
 d3.csv('../cleaned_data/ac_med.csv').then( data => {
 
     const w = 800,

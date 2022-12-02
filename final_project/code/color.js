@@ -1,6 +1,5 @@
-
-// d3.csv('../cleaned_data/watercolors_hex_dropna.csv').then( data => {
-d3.csv('../cleaned_data/watercolors_all.csv').then( data => {
+// colors from colorthief -- dominant colors
+d3.csv('../cleaned_data/watercolors_hex_dropna.csv').then( data => {
     const width = 600,
     height = 400,
     margin = {top: 40, right: 30, bottom: 20, left: 20};
@@ -12,8 +11,7 @@ d3.csv('../cleaned_data/watercolors_all.csv').then( data => {
 
     let timeParse = d3.timeParse("%Y");
     for (let d of data) {
-            d.value_x = +d.value_x
-            d.value_y = +d.value_y
+            d.value = +d.value
             d.year = timeParse(d.year); // create new var year
         };
     
@@ -33,7 +31,7 @@ d3.csv('../cleaned_data/watercolors_all.csv').then( data => {
         .data(data)
         .join("circle") // join data onto each circle
         .attr("cx", d => x(d.year)) // cx, cy -> position circles & give data
-        .attr("cy", d => y(d.value_x))
+        .attr("cy", d => y(d.value))
         .style("fill", d => d.hex)
         .attr("r", 3) // radius of circles
     

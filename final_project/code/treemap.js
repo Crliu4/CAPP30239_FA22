@@ -1,3 +1,4 @@
+// treemap -- artists in the collection
 const tooltip = d3.select("body")
     .append("div")
     .attr("class", "svg-tooltip")
