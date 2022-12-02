@@ -1,8 +1,9 @@
+// import { scaleDiscontinuous, discontinuityRange } from 'd3fc-discontinuous-scale';
 d3.csv('../cleaned_data/ac_med.csv').then( data => {
 
     const w = 800,
         h = 400,
-        m = {top: 40, right: 30, bottom: 20, left: 35};
+        m = {top: 40, right: 20, bottom: 20, left: 45};
 
     const svg = d3.select("#bar")
         .append("svg")
@@ -27,16 +28,20 @@ d3.csv('../cleaned_data/ac_med.csv').then( data => {
     let x = d3.scaleBand(data.map(d => (d.year)),[m.left, w - m.right])
     .padding([0.2]);
 
-    // let y = d3.scaleLinear([0, d3.max(data, d => d.ac_count)],[h - m.bottom, m.top]);
-    let y = d3.scaleLinear([0, 3000],[h - m.bottom, m.top]).nice();
-
+    // let y = d3.scaleLinear([0, d3.max(data, d => d.ac_count)],[h - m.bottom, m.top]).nice();
+    // let y = d3.scaleLinear([0, 4000],[h - m.bottom, m.top]).nice();
+    // add break in y-axis
+    let y = d3.scaleLinear().domain([0, 4000, 38000, d3.max(data, function(d) {
+        return d.ac_count})]).range([h - m.bottom, h/4 , m.top]).nice();
+    
     svg.append("g")
         .attr("transform", `translate(0,${h - m.bottom})`)
         .call(d3.axisBottom(x).tickValues(x.domain().filter(function(d,i){ return !(i%10)})).tickSizeOuter(0).tickFormat(d3.timeFormat("%Y")))
 
     svg.append("g")
         .attr("transform", `translate(${m.left},0)`)
-        .call(d3.axisLeft(y).tickSize(-w + m.left + m.right))
+        .call(d3.axisLeft(y).tickValues([0, 200, 400, 600, 800, 1000, 1200, 1400, 1600, 1800, 2000, 2200,
+           2400, 2600, 2800, 3000, 3200, 3400, 3600, 3800, 38000]).tickSize(-w + m.left + m.right))
 
     // medium subgroups
     const subgroups = ['paper', 'painting', 'wood', 'sculpture', 'photo', 'film', 'other'];
