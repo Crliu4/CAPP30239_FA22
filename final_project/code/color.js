@@ -1,7 +1,7 @@
 
 // d3.csv('../cleaned_data/watercolors_hex_dropna.csv').then( data => {
 d3.csv('../cleaned_data/watercolors_all.csv').then( data => {
-    const width = 800,
+    const width = 600,
     height = 400,
     margin = {top: 40, right: 30, bottom: 20, left: 20};
 
@@ -21,7 +21,7 @@ d3.csv('../cleaned_data/watercolors_all.csv').then( data => {
    
     let x = d3.scaleBand(data.map(d => (d.year)),[margin.left, width - margin.right]);
 
-    let y = d3.scaleLinear([0, 3000],[height - margin.bottom, margin.top]).nice();
+    let y = d3.scaleLinear([0, 6500],[height - margin.bottom, margin.top]).nice();
     
     svg.append("g")
         .attr("transform", `translate(0,${height - margin.bottom})`)
