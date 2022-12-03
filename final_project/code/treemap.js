@@ -17,6 +17,7 @@ d3.csv('../cleaned_data/aa_counts_url.csv').then(data => {
 
     console.log(data1)
 
+    // create one level hierarchy for treemap
     const treemap = data1 => d3.treemap()
         (d3.hierarchy(data1)
         .sum(d => +d.value)
@@ -57,24 +58,11 @@ d3.csv('../cleaned_data/aa_counts_url.csv').then(data => {
             .attr("id", "img")
             .attr("width", d => x(d.x1 - d.x0))
             .attr("height", d => y(d.y1 - d.y0))
-            // .attr("preserveAspectRatio", "xMaxYMid slice")
-            .attr("preserveAspectRatio", "xMidYMid slice")
+            .attr("preserveAspectRatio", "xMidYMid slice") // have image fill rectangles
             .attr("href", d => d.data.img);
     
         gNode.append("rect")
-            // .attr('fill', "#fff")
-            // .attr("fill", "url(#img)")
             .attr("stroke", "black");
-
-        // gNode.append("text")
-        //     .append("tspan")
-        //     .attr("x", 3)
-        //     .attr("y", "1.1em")
-        //     .text(d => d.data.name)
-        //     .append("tspan")
-        //     .attr("x", 3)
-        //     .attr("y", "2.3em")
-        //     .text(d => format(d.value));
 
         group.call(position);
       }
