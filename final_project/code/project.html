@@ -127,6 +127,13 @@
                         color charts come from <a href=https://public.opendatasoft.com/explore/dataset/the-tate-collection/table/>OpenDataSoft</a>. 
                         The data on OpenDataSoft are the same as the one's on the Tate GitHub, but the image links in the OpenDataSoft data are housed
                         on their database.
+                        <br>
+                        <br>
+                        All data processing was completed in python (pandas). I did some table concatentations and aggregations, and for 
+                        the treemap and watercolor charts, I used the URLs in the tables and downloaded each image. In order to perform color
+                        analysis for the watercolors, I used <a href=https://github.com/fengsp/color-thief-py>Color Thief</a>, 
+                        which extracts the dominant color from an image, and <a href=https://pypi.org/project/colorgram.py/>Colorgram</a>, to 
+                        extract colors in an image and the proportion of the image that was that color.
                     </p>
                 <h3>Limitations</h3>
                     <p>The data that are available are mostly complete. I only have two concerns: the first is that the data were last 
