@@ -6,7 +6,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>CAPP 30239 Data Visualization for Public Policy Final Project</title>
-  <link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,600" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Assistant:wght@400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
 </head>
 
@@ -14,28 +16,67 @@
         <div id="container">
             <h1>The Tate Collection through the Years</h1>
             <h4><em>Carolyn Liu</em></h4>
-            <h3>Introduction</h3>
-            <p></p>
-                        
-                <h3>Acquisitions by year</h3>
-                    <div class = "one"></div>
-                    <p>Some description</p>
+            <h2>Introduction</h2>
+            <p>Tate's first location opened in 1897 and displayed only a small collection of British artworks. 
+                Today, the Tate network consists of four galleries that display over 70,000 pieces of British
+                art from 1500 to present (Tate Britain) and international modern and contemporary art (Tate Modern,
+                Tate Liverpool, and Tate St. Ives). The <a href=https://www.tate.org.uk/about-us/collection>Tate</a> states that “British art is represented by artists
+                chosen for their contribution to its history and development, rather than their nationality alone.
+                The collection continues to expand its holdings of modern and contemporary art from around the world.”
+            </p>
+
+            <!-- <div class = "flex-container"></div> -->
+                <h2>Transformation and Growth</h2>
                     
-                    <div class="two" id="bar"></div>
+                    <p>All works acquired by Tate undergo the same acquisition procedure <a href="#footnote-1">[1]</a>. Proposed pieces are discussed by teams of specialist curators, who then recommend pieces for acquisition to the Collection Group. 
+                        <br>
+                        <br>
+                        Ultimately, the Tate's mission is to “increase the public's knowledge, understanding and appreciation of art.” The Tate does this by embracing works of all medias, from paintings and sculptures to photography/film and performance.
+                        <br>
+                        <br> 
+                        Though the Tate first opened to the public in 1897, works of art had been acquired as early as 1823. Artworks had been steadily acquired throughout the latter half of the 19th century and into the 20th century, and most acquisitions 
+                        were either in the form of paper or painting. Most notably, Tate acquired 37,893 works in 1856, with over 80% of those works in the form of paper. In the last half century, the Tate has steadily acquired over 200 artworks a year, with more and more pieces in other mediums such as wood, film, and photo. This isn't surprising, given the greater accessibility in photo and film in more recent decades.
+                    </p>
+                <div id="bar">
+                        <h3>Acquisitions by Year and Medium</h3>
+                </div>
 
-                <h3>Number of pieces in collection by artist</h3>
-                <p>Some description</p>
-                <div id="treemap"></div>
+            <div class = "flex-container">
+                <div class="one">
+                    <h2>Who are the Artists in the Tate Collection?</h2>
+                        <p>
+                            The Tate Collection's 70,000 artworks come from 3,532 artists. The artist with a whopping 39,389 works in the collection is English Romantic artist James Mallord William Turner. 
+                            Turner is most well-known as a landscape painter and for his expressive coloring, imaginative landscapes, and often-times violent marine paintings (View in the Avon Gorge 1791 shown)
+                            <a href="#footnote-2">[2]</a>.
+                            His works often reflected changes the world around him, notably inspired by industry, war, travel, politics, slavery, and the environment <a href="#footnote-3">[3]</a>.
+                            <br>
+                            <br>
+                            Rounding out the top 5 are George Jones, with 1,046 works, Henry Moore, with 623 works, William Daniell, with 612 works and Joseph Beuys with 578 works. From there, we can see that
+                            the number of works per artist drops significantly with 75% of artists having fewer than 5 of their artworks in the Tate collection. 
+                        </p>
+                </div>
 
-                
-                    <p>Some description</p>
-                <div class="subcontainer" id="color">
+                <div class="two" id="treemap">
+                    <h3><center>Number of Works in the Collection by Artist</center></h3>
+                </div>
+            </div>
+            
+            <div class = "flex-container">
+                <div class="flex-item" id="color">
                     <h3>Dominant watercolor colors through the years</h3>
                 </div>
-                <div class="subcontainer" id="color1">
+                <div class="flex-item" id="color1">
                     <h3>Color w/ biggest proportion watercolor colors through the years</h3>
                 </div>
+            </div>
 
+            <div>
+                <h3>References</h3>
+                <p id="footnote-1">[1]<a href=https://www.tate.org.uk/about-us/collection/acquisitions>Tate Acquisition Process</a></p>
+                <p id="footnote-2">[2]<a href=https://www.tate.org.uk/art/research-publications/jmw-turner/joseph-mallord-william-turner-1775-1851-r1141041>JMW Turner</a></p>
+                <p id="footnote-3">[3]<a href=https://www.tate.org.uk/art/artists/joseph-mallord-william-turner-558/six-ways-jmw-turner-painted-changing-world>Six Ways JMW Turner Painted the Changing World</a></p>
+            </div>
+        </div>  
         </div>
       </body>
       <script src="https://d3js.org/d3.v7.min.js"></script>

@@ -5,8 +5,8 @@ const tooltip = d3.select("body")
     .style("position", "absolute")
     .style("visibility", "hidden");
 
-let height = 400,
-    width1 = 500;
+let height = 600,
+    width1 = 800;
 
 // Read data
 d3.csv('../cleaned_data/aa_counts_url.csv').then(data => {
