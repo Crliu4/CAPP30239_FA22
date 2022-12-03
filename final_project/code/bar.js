@@ -1,8 +1,8 @@
 // stacked bar: acquisitions over time by medium
 d3.csv('../cleaned_data/ac_med.csv').then( data => {
 
-    const w = 700,
-        h = 350,
+    const w = 650,
+        h = 400,
         m = {top: 40, right: 20, bottom: 20, left: 45};
 
     const svg = d3.select("#bar")
