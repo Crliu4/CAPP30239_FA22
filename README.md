@@ -1,5 +1,5 @@
 # CAPP 30239 Data Visualization for Policy Analysis (Autumn 2022)
-Welcome to my Github repo for CAPP 30239!
+Welcome to my Github repo for CAPP 30239! The goal of this course is to provide an introduction to data visualization design, theory, and practices, as well as hands-on experience with data visualization tools (primarily D3.js). Each week's class will include a theory/design segment (Tuesday) and a <a href="https://github.com/tiffanyfrance/CAPP30239_FA22">code lecture (Thursday</a>) employing commonly practiced industry skills and thinking.
 
 ## Content
 * <a href="https://github.com/Crliu4/CAPP30239_FA22/tree/main/final_project">Final Project</a> The Tate Collection through the Years
