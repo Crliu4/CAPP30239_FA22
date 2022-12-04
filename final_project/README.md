@@ -1,4 +1,4 @@
-# Final Project
+# <a href="https://crliu4.github.io/CAPP30239_FA22/final_project/code/project.html">Final Project</a>
 
 ## Folders
 * cleaned_data
@@ -32,8 +32,8 @@
     updated picture URLs
 
 * raw_data
-    * artist_data.csv and artwork_data.csv source: <a href="https://github.com/tategallery/collection">Tate Gallery Github 
-    * the-tate-collection.csv (raw artwork data) & the-tate-collection-3.csv (raw artwork data, rows only with 'watercolour' in medium) source: <a href="https://public.opendatasoft.com/explore/dataset/the-tate-collection/table/">OpenDataSoft
+    * artist_data.csv and artwork_data.csv source: <a href="https://github.com/tategallery/collection">Tate Gallery Github</a>
+    * the-tate-collection.csv (raw artwork data) & the-tate-collection-3.csv (raw artwork data, rows only with 'watercolour' in medium) source: <a href="https://public.opendatasoft.com/explore/dataset/the-tate-collection/table/">OpenDataSoft</a>
     * watercolours.csv - intermediate data file (artist and artwork merged, keep rows only with 'watercolour' in medium)
 
 ## File in root directory
