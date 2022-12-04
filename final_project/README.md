@@ -37,5 +37,5 @@
     * watercolours.csv - intermediate data file (artist and artwork merged, keep rows only with 'watercolour' in medium)
 
 ## File in root directory
-    * 3 Minute Overview.pdf (Oct 31, 2022) - 3 minute story with basic sketches of charts
+* 3 Minute Overview.pdf (Oct 31, 2022) - 3 minute story with basic sketches of charts
 
