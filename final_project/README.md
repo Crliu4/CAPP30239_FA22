@@ -1,4 +1,4 @@
-# <a href="https://crliu4.github.io/CAPP30239_FA22/final_project/code/project.html">Final Project - Tate Collection through the Years</a>
+# <a href="https://crliu4.github.io/CAPP30239_FA22/final_project/code/project.html">Final Project - The Tate Collection through the Years</a>
 
 ## Folders
 * cleaned_data
