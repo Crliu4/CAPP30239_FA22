@@ -44,7 +44,7 @@
       
       //protein,carbs,fiber
       const subgroups = data.columns.slice(1);
-
+      console.log(subgroups)
       const color = d3.scaleOrdinal(subgroups,['#e41a1c','#377eb8','#4daf4a']); // another type of scale
     
       const stackedData = d3.stack() // formatting data

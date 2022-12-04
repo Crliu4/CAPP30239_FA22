@@ -26,6 +26,7 @@ d3.json('climate.json').then((data) => {
 
     const binGroups = svg.append("g")
         .attr("class", "bin-group");
+    console.log(binGroups);
 
     function updateChart(m) {
         const bins = d3.bin()
